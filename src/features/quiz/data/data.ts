@@ -3,7 +3,7 @@ import strategiya from "./strategiya.json";
 import testing from "./testing.json";
 import yuridik from "./yuridik.json";
 import axborot from "./axborot.json";
-import ijro from "./ijro.json";
+import ijro from "./ijro2.json";
 import fil from "./fil.json";
 import komplens from "./komplens.json";
 import chakana from "./chakana.json";

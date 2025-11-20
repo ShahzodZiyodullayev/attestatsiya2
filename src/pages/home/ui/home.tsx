@@ -28,8 +28,8 @@ const Home = () => {
 export default Home;
 
 const LINKS = [
-  { label: "Raqamli texnologiyalar", to: "raqamli" },
   { label: "Ijro", to: "ijro" },
+  { label: "Raqamli texnologiyalar", to: "raqamli" },
   { label: "Strategiya", to: "strategiya" },
   { label: "Axborot xizmati", to: "axborot" },
   { label: "Yuridik departament", to: "yuridik" },
