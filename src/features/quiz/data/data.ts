@@ -1,12 +1,13 @@
-import raqamli from "./raqamli.json";
+import raqamli from "./raqamli2.json";
 import strategiya from "./strategiya.json";
 import testing from "./testing.json";
-import yuridik from "./yuridik.json";
+import yuridik from "./yuridik2.json";
 import axborot from "./axborot.json";
 import ijro from "./ijro.json";
-import fil from "./fil.json";
-import komplens from "./komplens.json";
+import fil from "./fil2.json";
+import complians from "./kompleans2.json";
 import chakana from "./chakana.json";
+import risk from "./risk.json";
 
 export const data = {
   raqamli,
@@ -16,6 +17,7 @@ export const data = {
   yuridik,
   testing,
   fil,
-  komplens,
+  complians,
   chakana,
+  risk,
 };

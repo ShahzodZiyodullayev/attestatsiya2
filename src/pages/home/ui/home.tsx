@@ -29,13 +29,14 @@ export default Home;
 
 const LINKS = [
   { label: "Raqamli texnologiyalar", to: "raqamli" },
-  { label: "Ijro", to: "ijro" },
   { label: "Strategiya", to: "strategiya" },
+  { label: "Ijro", to: "ijro" },
   { label: "Axborot xizmati", to: "axborot" },
   { label: "Yuridik departament", to: "yuridik" },
   { label: "Fil set", to: "fil" },
-  { label: "Komplens", to: "komplens" },
+  { label: "Complians", to: "complians" },
   { label: "Chakana", to: "chakana" },
+  { label: "Risk", to: "risk" },
   { label: "Tasodifiy 50 ta", to: "random" },
   // { label: "Dev mode", to: "testing" },
 ];
