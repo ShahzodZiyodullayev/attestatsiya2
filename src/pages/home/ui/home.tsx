@@ -29,6 +29,7 @@ export default Home;
 
 const LINKS = [
   { label: "Raqamli texnologiyalar", to: "raqamli" },
+  { label: "Barchaga", to: "mix" },
   { label: "Strategiya", to: "strategiya" },
   { label: "Ijro", to: "ijro" },
   { label: "Axborot xizmati", to: "axborot" },
@@ -36,7 +37,6 @@ const LINKS = [
   { label: "Fil set", to: "fil" },
   { label: "Complians", to: "complians" },
   { label: "Chakana", to: "chakana" },
-  { label: "Mix", to: "mix" },
   { label: "Risk", to: "risk" },
   { label: "Tasodifiy 50 ta", to: "random" },
   // { label: "Dev mode", to: "testing" },
