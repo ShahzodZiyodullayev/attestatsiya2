@@ -8,6 +8,7 @@ import fil from "./fil2.json";
 import complians from "./kompleans2.json";
 import chakana from "./chakana.json";
 import risk from "./risk.json";
+import mix from "./mix.json";
 
 export const data = {
   raqamli,
@@ -19,5 +20,6 @@ export const data = {
   fil,
   complians,
   chakana,
+  mix,
   risk,
 };

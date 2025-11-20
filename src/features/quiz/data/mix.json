@@ -1,0 +1,3052 @@
+{
+  "title": "Barcaga mix test",
+  "sourceFileName": "Барчага.xlsx",
+  "count": 105,
+  "items": [
+    {
+      "id": "1",
+      "order": 1,
+      "question": "Bankimiz Strategiyasiga ko'ra strategik maqsadlarimiz nimalardan iborat?",
+      "options": [
+        {
+          "key": "A",
+          "text": "1. Kichik biznesga kompleks xizmatlar ko'rsatish bo'yicha tanlovda birinchi bank bo'lish\n2. Biznes rentabelligini va aksiyadorlik kapitalni oshirish\n3. Innovasion IT-echimlar va yuqori operasion samaradorlikni ta'minlash\n4. Kuchli korporativ madaniyat va aniq natijaga intiluvchi jamoa shakllantirish",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "1. Kichik biznesga kompleks xizmatlar ko'rsatish bo'yicha tanlovda birinchi bank bo'lish\n2. Biznes rentabelligini va aksiyadorlik kapitalni oshirish\n3. Innovasion IT-echimlar va yuqori operasion samaradorlikni ta'minlash",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "1. Kichik biznesga kompleks xizmatlar ko'rsatish bo'yicha tanlovda birinchi bank bo'lish\n2. Kuchli korporativ madaniyat va aniq natijaga intiluvchi jamoa shakllantirish",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "1. Kichik biznesga kompleks xizmatlar ko'rsatish bo'yicha tanlovda birinchi bank bo'lish\n2. Mijozlarni uzluksiz qo'llab-quvvatlovchi tayanch bank bo'lish\n3. Innovasion IT-echimlar va yuqori operasion samaradorlikni ta'minlash\n4. Kuchli korporativ madaniyat va aniq natijaga intiluvchi jamoa shakllantirish",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "2",
+      "order": 2,
+      "question": "Bankimiz Strategiyasiga ko'ra mahsulotlarimiz qanday 3 ta xususiyatga ega bo'lishi kerak?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sodda\nOmmabop\nTezkor",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Foydali\nOmmabop\nTezkor",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Sodda\nManfaatli\nTezkor",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Sodda\nOmmabop\nArzon",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "3",
+      "order": 3,
+      "question": "Strategiyaga oid 3 ta asosiy savol?",
+      "options": [
+        {
+          "key": "A",
+          "text": "1. Nega?\n2. Qaerda?\n3. Qanday?",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "1. Qachon?\n2. Qaerda?\n3. Qanday?",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "1. Qachon?\n2. Kim?\n3. Qanday?",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "1. Qachon?\n2. Qaerda?\n3. Qancha?",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "4",
+      "order": 4,
+      "question": "Strategiya ishlab chiqishda qanday omillar inobatga olinishi kerak?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ichki va tashqi omillar",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Mavjud moliyaviy resurslar, inson resurslar, tajriba va imkoniyatlar",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Tashqi omillar - makroiqtisodiy holat, texnologik innovasiyalar, bozordagi trendlar",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Markaziy bank talablari",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "5",
+      "order": 5,
+      "question": "SWOT-analiz nima degani?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bankning kuchli va zaif tomonlarining hamda mavjud imkoniyatlar va tahdidlarning tahlili",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Bankning asosiy ko'rsatkichlari tahlili",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Bankning kuchli va zaif tomonlarining tahlili",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Bankning asosiy ko'rsatkichlari prognozi",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "6",
+      "order": 6,
+      "question": "Strategiya ishlab chiqishda Bankimizning qanday kuchli tomonlari inobatga olingan?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Keng mijozlar bazasi, keng filiallar tarmog'i, aholining davlat banklariga ishonchi, davlat banki sifatida mijozlarga taqdim etiladigan keng imtiyozlar",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Keng filiallar tarmog'i, aholining davlat banklariga ishonchi, yuqori moliyaviy ko'rsatkichlar",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Keng mijozlar bazasi, davlat banki sifatida mijozlarga taqdim etiladigan keng imtiyozlar",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Aholining davlat banklariga ishonchi, kichik biznesga taqdim etiladigan keng imtiyozlar",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "7",
+      "order": 7,
+      "question": "\"Raqamli transformasiya\" nimani anglatadi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mahsulotlarni raqamlashtirish, kanallarni raqamlashtirish, mijozlarni raqamlashtirish, bek-ofis va biznes-jarayonlarni raqamlashtirish",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Mahsulotlarni raqamlashtirish, kanallarni raqamlashtirish, mijozlarni raqamlashtirish, filiallarni raqamlashtirish",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Mahsulotlarni raqamlashtirish, kanallarni raqamlashtirish, asosiy vositalarni raqamlashtirish, bek-ofis va biznes-jarayonlarni raqamlashtirish",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Kreditlarni raqamlashtirish, kanallarni raqamlashtirish, mijozlarni raqamlashtirish, bek-ofis va biznes-jarayonlarni raqamlashtirish",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "8",
+      "order": 8,
+      "question": "Raqamli transformasiya nima beradi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Samaradorlik oshadi, xarajatlar kamayadi, xizmat ko'rsatish sifati va sotuv hajmlari oshadi",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Kreditlar soni oshadi, xarajatlar kamayadi, xizmat ko'rsatish sifati va sotuv hajmlari oshadi",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Samaradorlik oshadi, xodimlar soni kamayadi, xizmat ko'rsatish sifati va sotuv hajmlari oshadi",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Samaradorlik oshadi, xarajatlar kamayadi,filiallar soni ko'payadi",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "9",
+      "order": 9,
+      "question": "Bankimiz Strategiyasiga ko'ra 2026 yilga qadar qanday kreditlar ulushini qisqartirish nazarda tutilgan?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Davlat dasturiga oid kreditlar ulushini",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Ipoteka kreditlari ulushini",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Qurilishga ajratiladigan kreditlar ulushini",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Chakana biznesga oid kreditlar ulushini",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "10",
+      "order": 10,
+      "question": "Bankimizning amaldagi Strategiyasi qaysi yillarga mo'ljallangan?",
+      "options": [
+        {
+          "key": "A",
+          "text": "2024-2026 yillarga",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "2025-2030 yillarga",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "2025-2050 yillarga",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "2025-2035 yillarga",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "11",
+      "order": 11,
+      "question": "Bankda yaratilayotgan Business HUB doirasidagi xizmatlar ekotizimida nimalar nazarda tutilgan?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Konsalting, buxgalteriya hisobi, soliq va huquqiy masalalar bo'yicha maslahatlar, biznesni on-layn ro'yxatdan o'tkazish, biznes-maktabi, paketli takliflar, mijozlarni media vositasida qo'llab-quvvatlash, ish yuritishda foydalaniladigan hujjatlar konstruktorlari va shablonlari.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Aktivlarni boshqarish samaradorligini va kredit portfeli sifatini oshirish, davlat qimmatli qog'ozlariga investisiya qilish, risk-madaniyatni takomillashtirish, resurs bazasini diversifikasiya qilish, moliyaviy barqarorlikni ta'minlash orqali yuqori kredit reytinglarini olish, ESG tamoyillarini joriy qilish",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Moliyaviy ko'rsatkichlar (ROI, NPV), belgilangan muddatlar va byudjetga muvofiqligi, natijalar sifati, mijozlar va jamoaning qoniqishi, shuningdek, strategik maqsadlarga erishish va biznes asoslanishi",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "- tranzaksiyalarni va mijozlar so'rovini zudlik bilan yoki real vaqt rejimida qayta ishlash;\n- optimallashgan va avtomatlashtirilgan biznes-jarayonlar;\n- samarali risk-menejment;\n- mukammal moliyaviy texnologiyalar va IT-infrastruktura (ML-scoring, soft-collection, CRM va h. k.);\n- ma'lumotlar ombori va ularni tahlil qiluvchi mukammal vositalar.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "12",
+      "order": 12,
+      "question": "Bitta mijozga to'g'ri keladigan mahsulotlar sonini oshirishga nimalar ta'sir qiladi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mahsulotlar jozibadorligi, tahliliy CRM, kross-sotuvlar, mijozga individual yondashuv va h.k.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Mahsulotlarni, mijozlarni (raqamli onbording), aloqa va sotuv kanallarini, ma'lumotlarni (hisobotlarni), bek-ofisni va h.k.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Хizmatlar tezligi oshadi, mijozlar ishonchi, sodiqligi va tajribasi ortadi, turli kanallar orqali xizmat ko'rsatish uzluksizligi ta'minlanadi, CSI (Customer Satisfaction Index) va CLV (customer lifetime value) kabi ko'rsatkichlar ortadi, sotuv hajmlari oshadi.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Tushumi (aylanmasi), xodimlar soni, kreditlanganligining o'rtacha darajasi, moliya bozoridagi xulq-atvori (iste'mol qilish xususiyatlari) va b.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "13",
+      "order": 13,
+      "question": "Mijozlarni segmentlarga (subsegmentlarga) ajratishdan maqsad nima?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Har bir segmentdagi mijozlar uchun mahsus bank mahsulotlarini taklif qilish, ular bilan muloqot qilishning alohida modellarini ishlab chiqish va qo'llash.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Mijozlarga kredit ajratishda anderrayting tizimini qo'llash, skoring tizimini takomillashtirish",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Хizmatlar tezligini oshirish, mijozlar ishonchi, sodiqligi va tajribasi orttirish, turli kanallar orqali xizmat ko'rsatish uzluksizligi ta'minlanash, CSI (Customer Satisfaction Index) va CLV (customer lifetime value) kabi ko'rsatkichlarni oshirish",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Aktivlarni boshqarish samaradorligini va kredit portfeli sifatini oshirish, davlat qimmatli qog'ozlariga investisiya qilish, risk-madaniyatni takomillashtirish, resurs bazasini diversifikasiya qilish, moliyaviy barqarorlikni ta'minlash orqali yuqori kredit reytinglarini olish, ESG tamoyillarini joriy qilish",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "14",
+      "order": 14,
+      "question": "Mijozlarni segmentlash qanday ko'rsatkichlar asosida amalga oshirilishi mumkin?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tushumi (aylanmasi), xodimlar soni, kreditlanganligining o'rtacha darajasi, moliya bozoridagi xulq-atvori (iste'mol qilish xususiyatlari) va b.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Soliq hamda bojxona organlariga to'lanadigan to'lovlar, shu jumladan bojlar hajmining oxirgi 12 oydagi holatining tahlili va b.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Top-menejerlarning oxirgi 12 oydagi o'rtacha daromadi va dividendlari (soliq to'lovlarini hisobga olmaganda)",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "To'g'ri javob yo'q",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "15",
+      "order": 15,
+      "question": "Faol bo'lmagan mijozlarni qanday faollashtirsa bo'ladi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Maxsus takliflar taqdim etish, aksiyalar tashkil etish, PUSH-xabarlar yuborish, qo'ng'iroq orqali fid-bek olish va ehtiyojlariga mos mahsulotlar taklif etish",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Maxsus imtiyozli past stavkada kreditlar taklif etish",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Maxsus takliflar taqdim etish, aksiyalar tashkil etish, garovsiz kreditlar, qo'ng'iroq orqali fid-bek olish va ehtiyojlariga mos mahsulotlar taklif etish",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Maxsus takliflar taqdim etish, aksiyalar tashkil etish, PUSH-xabarlar yuborish, olgan kreditlarini hisobdan chiqarish va ehtiyojlariga mos mahsulotlar taklif etish",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "16",
+      "order": 16,
+      "question": "Bugungi kunda BRB raqamli xizmatlar ekotizimiga nimalar kiradi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "BRB mobil ilovasi, Mening biznesim, Mening buyurtmam, Mening tomorqam, Biznes 24/7 platformasi, veb-sayt",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "BХO, BХM, Bosh ofis, Raqamli biznes departamenti",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Bank mahsulotlari va xizmatlari,  tariflari, hisobraqamlari va limitlari, on-layn to'lovlar, nomoliyaviy xizmatlar, moliyaviy hisobotlar",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Raqamli mahsulotlar, raqamli kanallar, IT-departament, DWH, BI-navigator",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "17",
+      "order": 17,
+      "question": "Bank Strategiyasiga ko'ra Aloqa-markazini transformasiya qilish orqali uning funksiyalarini qanday kengaytirish nazarda tutilgan?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sotuv kanaliga aylantirish  nazarda tutilgan",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Qaynoq qo'ng'iroqlar markaziga aylantirish nazarda tutilgan",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Maslahat markaziga aylantirish  nazarda tutilgan",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Hub&Spoke markaziga aylantirish  nazarda tutilgan",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "18",
+      "order": 18,
+      "question": "Bozorda BRBda kimlar bilan raqobat qiladi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Barcha javoblar to'g'ri",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Boshqa tijorat banklari",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Mikromoliya tashkilotlari",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Fintex kompaniyalar",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "19",
+      "order": 19,
+      "question": "Bank Strategiyasiga ko'ra chakana biznes mijozlarining sonini oshirishda qaysi kanal muhim hisoblanadi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Raqamli kanallar, Mobil ilovalar",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "BХO, BХM, Bosh ofis",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Chakana biznes departamenti, Aloqa markazi, Bank tarmoqlarini rivojlantirish va mahsulotlarini sotish departamenti",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Face-ID, BNPL, Visa So'm, kredit konveyeri",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "20",
+      "order": 20,
+      "question": "Chakana biznes yo'nalishida mijozlarni jalb qilishning eng samarali yo'li qaysi hisoblanadi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Qarindosh va yaqinlar, tanish va do'stlarning tavsiyasi",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Mutaxassislar maslahati",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Televidenie va radio",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Tashqi reklama",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "21",
+      "order": 21,
+      "question": "Kichik biznesga kompleks xizmatlar ko'rsatish bo'yicha tanlovda birinchi bank bo'lish uchun nimalar qilish kerak?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mijozga yo'naltirilgan yondashuvni kuchaytirish, xizmat ko'rsatishning samarali servis-modelini yaratish, bank va nobank mahsulotlar (xizmatlar)ning keng ko'lamli eko-tizimini shakllantirish, paketli takliflar va mijozlarning sodiqligini ta'minlash dasturlarini yo'lga qo'yish, NFSni joriy qilish, ekspertiza markazlarini tashkil qilish",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Mijozga yo'naltirilgan yondashuvni kuchaytirish, xizmat ko'rsatishning samarali servis-modelini yaratish, bank va nobank mahsulotlar (xizmatlar)ning keng ko'lamli eko-tizimini shakllantirish, yangi filiallar ochish hisobiga bank tarmog'ini kengaytirish, NFSni joriy qilish, ekspertiza markazlarini tashkil qilish",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Mijozga yo'naltirilgan yondashuvni kuchaytirish, xizmat ko'rsatishning samarali servis-modelini yaratish, bank va nobank mahsulotlar (xizmatlar)ning keng ko'lamli eko-tizimini shakllantirish, paketli takliflar va mijozlarning sodiqligini ta'minlash dasturlarini yo'lga qo'yish, avtokredit va mikroqarzlar hajmini oshirish, ekspertiza markazlarini tashkil qilish",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Mijozga yo'naltirilgan yondashuvni kuchaytirish, xizmat ko'rsatishning samarali servis-modelini yaratish, bank va nobank mahsulotlar (xizmatlar)ning keng ko'lamli eko-tizimini shakllantirish, paketli takliflar va mijozlarning sodiqligini ta'minlash dasturlarini yo'lga qo'yish, Process Mining'ni joriy etish",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "22",
+      "order": 22,
+      "question": "Kuchli korporativ madaniyatni va aniq natijaga intiluvchi jamoani shakllantirish qanday amalga oshiriladi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "\"O'zgarishlar agentlari\" dasturini amalga oshirish, \"Agile\" jamoalarni yaratish va ularning ko'lamini kengaytirish, bankda ichki kommunikasiyani kuchaytirish, xodimlarni o'qitish orqali ularning malaka darajasini oshirish, samarali motivasion model yaratish, greyding va KPI tizimini joriy etish",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Aktivlarni boshqarish samaradorligini va kredit portfeli sifatini oshirish, davlat qimmatli qog'ozlariga investisiya qilish, risk-madaniyatni takomillashtirish, resurs bazasini diversifikasiya qilish, moliyaviy barqarorlikni ta'minlash orqali yuqori kredit reytinglarini olish, NFSni joriy qilish",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Biznes-jarayonlarni raqamlashtirish, jarayonlarni boshqarish va xarajatlar nazoratini optimallashtirish, masofaviy xizmatlar soni va hajmini oshirish, NFSni joriy qilish, tashkiliy-funksional model samaradorligini oshirish",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Risk-madaniyatni takomillashtirish, resurs bazasini diversifikasiya qilish, moliyaviy barqarorlikni ta'minlash orqali yuqori kredit reytinglarini olish, ESG tamoyillarini joriy qilish, \"O'zgarishlar agentlari\" dasturini amalga oshirish, \"Agile\" jamoalarni yaratish va ularning ko'lamini kengaytirish",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "23",
+      "order": 23,
+      "question": "BRBni kichik biznesga kompleks xizmat ko'rsatuvchi \"innovasion bank\"ka aylantirish (transformasiya qilish) nimalarni talab qiladi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "- texnologik investisiyalarni;\n- korporativ madaniyatdagi tub o'zgarishlarni;\n- strategik tafakkurni;\n- intensiv rivojlanishni;\n- T2Mni (Time to market) qisqartirishni;\n- bozorda informasion yetakchilikni va ma'lumotlar omborini takomillashtirishni.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Filiallarning asosiy moliyaviy ko'rsatkichlarini monitoring qilish;\nBosh ofis topshiriqlarini o'z muddatida ijrosini nazorat qilish;\nzarur hollarda biznes-rejalariga tuzatishlar kiritish",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "xorijiy investisiyalarni jalb qilish;\n- davlat dasturlarini amalga oshirish;\n- ijro nazoratini kuchaytirish;\n- intensiv rivojlanishni;\n- T2Mni (Time to market) qisqartirishni;\n- bozorda informasion yetakchilikni va ma'lumotlar omborini takomillashtirishni.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Risk-madaniyatni takomillashtirish, resurs bazasini diversifikasiya qilish, moliyaviy barqarorlikni ta'minlash orqali yuqori kredit reytinglarini olish, ESG tamoyillarini joriy qilish, \"O'zgarishlar agentlari\" dasturini amalga oshirish, \"Agile\" jamoalarni yaratish va ularning ko'lamini kengaytirish",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "24",
+      "order": 24,
+      "question": "Bank xizmatlarining tezkorligini ta'minlash vazifasi nimalarni nazarda tutadi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "- tranzaksiyalarni va mijozlar so'rovini zudlik bilan yoki real vaqt rejimida qayta ishlash;\n- optimallashgan va avtomatlashtirilgan biznes-jarayonlar;\n- samarali risk-menejment;\n- mukammal moliyaviy texnologiyalar va IT-infrastruktura (ML-scoring, soft-collection, CRM va h. k.);\n- ma'lumotlar ombori va ularni tahlil qiluvchi mukammal vositalar.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Konsalting, buxgalteriya hisobi, soliq va huquqiy masalalar bo'yicha maslahatlar, biznesni on-layn ro'yxatdan o'tkazish, biznes-maktabi, paketli takliflar, mijozlarni media vositasida qo'llab-quvvatlash, ish yuritishda foydalaniladigan hujjatlar konstruktorlari va shablonlari.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "anderrayting funksiyasini takomillashtirish (aniq mezonlar, analitik modellar);\n- doimiy monitoring va risklarni baholash, mijozning to'lovga qobiliyati yomonlashayotganligini olindan aniqlash tizimini joriy qilish;\n- kredit portfeli barqarorligini baholash maqsadida muntazam stress-testlar o'tkazib borish;\n- nizolarni sudgacha hal qilish bilan shug'ullanuvchi xodimlarning ixtisoslashuvi darajasini oshirish.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "hisob-kitob-kassa amaliyotlaridan olinadigan komission daromadlar, 1 ta operasiyadan olinadigan sof daromadni oshirish, to'lovlar, o'tkazmalar va konversiya operasiyalarining o'rtacha hajmini oshirish, \"SPOT\" bitimlaridan olinadigan daromadlar, bank kartalaridan olinadigan daromadlarning keng turlari.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "25",
+      "order": 25,
+      "question": "Mijozga yo'naltirilgan biznes-model nimalarni nazarda tutadi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bu modelning asosiy elementi - bu mijoz va uning ehtiyojlaridir. Shuning uchun bank biznes jarayonlarni ushbu ehtiyojlarni tushunishga va qondirishga qaratib ishlab chiqishi lozim: innovasion, ya'ni bozorda yangi bo'lgan mahsulotlar va xizmatlar yaratish, mijozlarning o'zgaruvchan ehtiyojlariga zudlik bilan javob berish va xizmatlarni doimiy moslashtirib borish",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Aktivlarni boshqarish samaradorligini va kredit portfeli sifatini oshirish, davlat qimmatli qog'ozlariga investisiya qilish, risk-madaniyatni takomillashtirish, resurs bazasini diversifikasiya qilish, moliyaviy barqarorlikni ta'minlash orqali yuqori kredit reytinglarini olish, ESG tamoyillarini joriy qilish",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Konsalting, buxgalteriya hisobi, soliq va huquqiy masalalar bo'yicha maslahatlar, biznesni on-layn ro'yxatdan o'tkazish, biznes-maktabi, paketli takliflar, mijozlarni media vositasida qo'llab-quvvatlash, ish yuritishda foydalaniladigan hujjatlar konstruktorlari va shablonlari.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Mijoz bank bilan aloqa qilish davomida qanday qadamlarni o'tashini va buni mijoz qanday qabul qilishini bank his qilishi, tushunishi va tahlil qilishi lozim. Uning har bir bosqichdagi tashvishlarini o'rganib, ularni engillashtirish maqsadida o'zining jarayonlarini optimallashtiradi. Buning uchun har bir bosqich, har bir aloqa qanday ko'rinishda ekanligi batafsil tasvirlanishi kerak bo'ladi.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "26",
+      "order": 26,
+      "question": "\"Mijoz yo'li\"ni yaxshilashga yondashuv qanday bo'lishi kerak?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mijoz bank bilan aloqa qilish davomida qanday qadamlarni o'tashini va buni mijoz qanday qabul qilishini bank his qilishi, tushunishi va tahlil qilishi lozim. Uning har bir bosqichdagi tashvishlarini o'rganib, ularni yengillashtirish maqsadida o'zining jarayonlarini optimallashtiradi. Buning uchun har bir bosqich, har bir aloqa qanday ko'rinishda yekanligi batafsil tasvirlanishi kerak bo'ladi.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Mijozlarimizning asosiy segmentlari va subsegmentlarini, ularga taqdim etiladigan asosiy moliyaviy va nobank mahsulotlarni hamda mijozlar bilan aloqa kanallari, sotuv va xizmat ko'rsatish kanallarini aniqlab olish, ehtiyojlarni o'rganish, yangi innovasion mahsulotlar ishlab chiqish tizimini takomillashtirish, sotuv jarayonlarini optimallashtirish.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Mijozga yo'naltirilgan yondashuvni kuchaytirish, xizmat ko'rsatishning samarali servis-modelini yaratish, bank va nobank mahsulotlar (xizmatlar)ning keng ko'lamli eko-tizimini shakllantirish, paketli takliflar va mijozlarning sodiqligini ta'minlash dasturlarini yo'lga qo'yish, Process Mining'ni joriy etish",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Konsalting, buxgalteriya hisobi, soliq va huquqiy masalalar bo'yicha maslahatlar, biznesni on-layn ro'yxatdan o'tkazish, biznes-maktabi, paketli takliflar, mijozlarni media vositasida qo'llab-quvvatlash, ish yuritishda foydalaniladigan hujjatlar konstruktorlari va shablonlari.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "27",
+      "order": 27,
+      "question": "Bank biznes-modelining 3 ta asosiy elementi: mijoz, mahsulot, kanallar. Shundan kelib chiqib, biznes-modelimizni qanday tavsiflab bera olasiz?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mijozlarimizning asosiy segmentlari va subsegmentlarini, ularga taqdim etiladigan asosiy moliyaviy va nobank mahsulotlarni hamda mijozlar bilan aloqa kanallari, sotuv va xizmat ko'rsatish kanallarini aniqlab olish, ehtiyojlarni o'rganish, yangi innovasion mahsulotlar ishlab chiqish tizimini takomillashtirish, sotuv jarayonlarini optimallashtirish.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Mijoz bank bilan aloqa qilish davomida qanday qadamlarni o'tashini va buni mijoz qanday qabul qilishini bank his qilishi, tushunishi va tahlil qilishi lozim. Uning har bir bosqichdagi tashvishlarini o'rganib, ularni yengillashtirish maqsadida o'zining jarayonlarini optimallashtiradi. Buning uchun har bir bosqich, har bir aloqa qanday ko'rinishda ekanligi batafsil tasvirlanishi kerak bo'ladi.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Aktivlarni boshqarish samaradorligini va kredit portfeli sifatini oshirish, davlat qimmatli qog'ozlariga investisiya qilish, risk-madaniyatni takomillashtirish, resurs bazasini diversifikasiya qilish, moliyaviy barqarorlikni ta'minlash orqali yuqori kredit reytinglarini olish, ESG tamoyillarini joriy qilish",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Mijozga yo'naltirilgan yondashuvni kuchaytirish, xizmat ko'rsatishning samarali servis-modelini yaratish, bank va nobank mahsulotlar (xizmatlar)ning keng ko'lamli eko-tizimini shakllantirish, paketli takliflar va mijozlarning sodiqligini ta'minlash dasturlarini yo'lga qo'yish, Process Mining'ni joriy etish",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "28",
+      "order": 28,
+      "question": "Faol mijozlar soni va ularga taqdim etilayotgan mahsulotlar sotuvini oshirishda chakana biznes hamda yuridik shaxslarga xizmat ko'rsatuvchi biznes-tuzilmalarning hamkorligi qanday bo'lishi kerak?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mijozlarni o'stirishda birgalikda mijozlar ehtiyojini o'rganish, mahsulotlar ishlab chiqish va mijozlar xulq-atvorini tahlil qilgan holda ularning faolligini oshirish bo'yicha birgalikdagi tadbirlarni amalga oshirish. Chakana mijozlarni mikrobiznes sohasiga o'tkazish, undan kichik biznes, keyin o'rta biznes va korporativ biznes sohasiga o'tkazish bo'yicha choralar ko'rish.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Mahsulotlarni, mijozlarni (raqamli onbording), aloqa va sotuv kanallarini, ma'lumotlarni (hisobotlarni), bek-ofisni raqamlashtirish.\nBank mahsulotlari va xizmatlarini xarid qilish, o'zining tariflarini belgilash va o'zgartirish, hisobraqamlarini va limitlarini boshqarish, on-layn to'lovlarni amalga oshirish, nomoliyaviy xizmatlarga ulanish, moliyaviy holatini tahlil qilish va hisobotlar shakllantirish.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Risk-madaniyatni takomillashtirish, resurs bazasini diversifikasiya qilish, moliyaviy barqarorlikni ta'minlash orqali yuqori kredit reytinglarini olish, ESG tamoyillarini joriy qilish, \"O'zgarishlar agentlari\" dasturini amalga oshirish, \"Agile\" jamoalarni yaratish va ularning ko'lamini kengaytirish",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "hisob-kitob-kassa amaliyotlaridan olinadigan komission daromadlar, 1 ta operasiyadan olinadigan sof daromadni oshirish, to'lovlar, o'tkazmalar va konversiya operasiyalarining o'rtacha hajmini oshirish, \"SPOT\" bitimlaridan olinadigan daromadlar, bank kartalaridan olinadigan daromadlarning turlarini kengaytirish.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "29",
+      "order": 29,
+      "question": "Raqamlashtirish nima beradi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Хizmatlar tezligi oshadi, mijozlar ishonchi, sodiqligi va tajribasi ortadi, turli kanallar orqali xizmat ko'rsatish uzluksizligi ta'minlanadi, CSI (Customer Satisfaction Index) va CLV (customer lifetime value) kabi ko'rsatkichlar ortadi, sotuv hajmlari oshadi.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Har bir segmentdagi mijozlar uchun mahsus bank mahsulotlarini taklif qilish, ular bilan muloqot qilishning alohida modellari ishlab chiqiladi",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Aktivlarni boshqarish samaradorligini va kredit portfeli sifatini oshirish, davlat qimmatli qog'ozlariga investisiya qilish, risk-madaniyatni takomillashtirish, resurs bazasini diversifikasiya qilish, moliyaviy barqarorlikni ta'minlash orqali yuqori kredit reytinglarini olish, ESG tamoyillarini joriy qilinadi",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Bank mahsulotlari va xizmatlarini xarid qilish, o'zining tariflarini belgilash va o'zgartirish, hisobraqamlarini va limitlarini boshqarish, on-layn to'lovlarni amalga oshirish, nomoliyaviy xizmatlarga ulanish, moliyaviy holatini tahlil qilish va hisobotlar shakllantirladi",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "30",
+      "order": 30,
+      "question": "\"Антифрод тизими\" га тўғри таъриф берилган жавобни топинг.",
+      "options": [
+        {
+          "key": "A",
+          "text": "банк карталари ва ҳисобварақлари, мобил иловалар аккаунтлари ҳамда электрон ҳамёнлар ёрдамида тўловларни амалга оширишда содир этиладиган фирибгарликни олдини олишга қаратилган жараёнлар йиғиндиси",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "ахборот технологияларини қўллаган ҳолда содир этиладиган фирибгарлик ҳаракатлари",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "фойдаланувчи, дастур, қурилма ёки маълумотларнинг ҳақиқийлигини тасдиқлаш тартиб-таомили",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "электрон хизматлардан фойдаланиш учун тўлов хизматларидан фойдаланувчи ва ушбу хизматларни етказиб берувчи ўртасидаги алоқани таъминлайдиган телекоммуникация воситалари, рақамли ва ахборот технологиялари, дастурий таъминот ва ускуналар мажмуи",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "31",
+      "order": 31,
+      "question": "Фирибгарлар кенг фойдаланадиган ижтимоий муҳандислик усулларини кўрсатинг.",
+      "options": [
+        {
+          "key": "A",
+          "text": "telegram, Whatsapp, бошқа ижтимоий тармоқлар",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "telegram мессенжери",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Watsup мессенжери",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "ижтимоий тармоқлар орқали",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "32",
+      "order": 32,
+      "question": "\"Фрод\"(fraud) тушунчасига тўғри таъриф берилган жавобни белгиланг",
+      "options": [
+        {
+          "key": "A",
+          "text": "ахборот технологияларини қўллаган ҳолда содир этиладиган фирибгарлик ҳаракатлари",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "кибермаконда шахс, жамият ва давлат манфаатларининг ташқи ва ички таҳдидлардан ҳимояланганлик ҳолати",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "тўлов тизими иштирокчиларининг пулга доир ўзаро талаблари ва мажбуриятларини йиғиш, таққослаш ҳамда ҳисобга ўтказиш жараёни",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "маълум шахсга ёки шахслар гуруҳига муайян ҳаракатларни амалга ошириш ҳуқуқини бериш",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "33",
+      "order": 33,
+      "question": "Гумонли операция деб нимага айтилади?",
+      "options": [
+        {
+          "key": "A",
+          "text": "гумон уйғотувчи ҳамда уни шубҳали операциялар туркумига киритиш (киритмаслик) ҳақида қарор қабул қилгунга қадар бўлган операция",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "мижоз томонидан амалга оширилган операция",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "бир маротабалик операциялар",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "мижознинг барча идентификация маълумотлари",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "34",
+      "order": 34,
+      "question": "Мижозни идентификациялаш - ...",
+      "options": [
+        {
+          "key": "A",
+          "text": "мижозлар ҳақидаги маълумотларни улар томонидан тақдим этилган ҳужжатлар асосида аниқлаш",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "мижознинг шубҳали операциялари",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "мижознинг гумонли операциялари",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "бир маротабалик операциялар",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "35",
+      "order": 35,
+      "question": "Жисмоний шахслар қандай ҳужжатлар асосида идентификация қилинади?",
+      "options": [
+        {
+          "key": "A",
+          "text": "шахсни тасдиқловчи ҳужжат ёки мижознинг биометрик маълумотлари асосида амалга оширилади.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "гувоҳнома орқали амалга оширилади",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "банк карта орқали амалга оширилади",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "сертификат орқали амалга оширилади",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "36",
+      "order": 36,
+      "question": "Ички назорат деганда нимани тушунасиз?",
+      "options": [
+        {
+          "key": "A",
+          "text": "мижозларини лозим даражада текшириш, хатарларни бошқариш, гумонли ва шубҳали операцияларни аниқлаш.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "юқори мансабдор шахсларни аниқлаш.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "мижознинг гумонли операциялари",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "бир маротабалик операциялар",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "37",
+      "order": 37,
+      "question": "Мижозни лозим даражада текшириш нималардан иборат?",
+      "options": [
+        {
+          "key": "A",
+          "text": "мижоз ва унинг бенефициар мулкдорини идентификациялаш ва операцияларни ўрганиш.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "шубҳали операцияларни Молия вазирлигига тақдим этиш",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "шубҳали операцияларни Департаментга тақдим этиш",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "гумонли операцияларни Марказий банкга тақдим этиш",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "38",
+      "order": 38,
+      "question": "Тижорат банкларига қуйидаги тақиқланади...",
+      "options": [
+        {
+          "key": "A",
+          "text": "аноним шахсларга, идентификациялаш учун зарур бўлган ҳужжатлар тақдим этилмаганда, ўйлаб чиқарилганлиги аниқ бўлган ҳужжатлар билан тасдиқланмаган номларга ҳисобварақлар очиш;",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "кредит маблағлари ажратиш",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "бир маротабалик операциялар",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "муддатли омонатга ҳисобварақ очиш",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "39",
+      "order": 39,
+      "question": "Тижорат банкида мижозни идентификациялаш ким томонидан амалга оширилади?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Мижозларга бевосита хизмат кўрсатувчи ходимлар томонидан",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Ички назорат ходими томонидан",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Бош бухгалтер томонидан",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Бошқарувчи томонидан",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "40",
+      "order": 40,
+      "question": "Қайси ходимлар гумонли ва шубхали операцияларни ёзма хабарини беради...",
+      "options": [
+        {
+          "key": "A",
+          "text": "мижозларга бевосита хизмат кўрсатувчи (операцияни ўтказувчи масъул ижрочилар, кассирлар ва шу каби барча мижоз билан ишловчи) ходимлар томонидан",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "кредит бўлими бошлиғи",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "бош бухгалтер",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "бошқарувчи",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "41",
+      "order": 41,
+      "question": "Шубҳали операция деб нимага айтилади?",
+      "options": [
+        {
+          "key": "A",
+          "text": "жиноий фаолиятдан олинган даромадларни легаллаштириш ва (ёки) терроризмни молиялаштириш мақсадида амалга оширилганлигига шубҳа пайдо бўлган операция",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "мижознинг гумонли операциялари",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "бир маротабалик операциялар",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "мижозни идентификация қилиш",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "42",
+      "order": 42,
+      "question": "Операция иштирокчилари кимлар?",
+      "options": [
+        {
+          "key": "A",
+          "text": "мижозлар, уларнинг вакиллари ҳамда мижознинг операцияда иштирок этувчи ҳамкорлари",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "ички назорат ходими, мижозлар ва бош бухгалтер",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "банкнинг масул ходимлари, мижозлар ва юқори мансабдор шахслар",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "операцияни амалга ошираётган мижознинг банки",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "43",
+      "order": 43,
+      "question": "Мижоз ёки операция иштирокчиларидан бирининг барча идентификация маълумотлари Рўйхатга киритилган шахснинг маълумотлари билан тўлиқ мос келганда ..",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ички назорат хизматига хабар бериши керак.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "бошқарувчисига хабар бериши керак.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "бош бухгалтерига хабар бериши керак.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "мижозни хабардор қилиши керак.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "44",
+      "order": 44,
+      "question": "Банкда коррупция ҳақида хабар беришга мўлжалланган махсус алоқа каналлари нечта ва қайсилар",
+      "options": [
+        {
+          "key": "A",
+          "text": "5 та \nИшонч телефони (78 150-59-95)\nТелеграм бот (@BRB_Antikor_bot)\nВеб-сайт (www.brb.uz)\nЭлектрон почта (antikor@brb.uz)\nFacebook (BRB rasmiy shaifasi)",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "4 та \nИшонч телефони (78 150-59-55)\nТелеграм бот (@BRB_bot)\nВеб-сайт (www.brb-info.uz)\nЭлектрон почта (antikorruption01@brb.uz)",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "4 та \nИшонч телефони (78 150-99-55)\nТелеграм бот (portal@brbinfo_bot)\nВеб-сайт (www.brb-mb.uz)\nЭлектрон почта (cor01brbr@info.uz)",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "3 та \nИшонч телефони (78 150-00-44)\nТелеграм бот (@info_bot)\nЭлектрон почта (brb@elektron.uz)",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "45",
+      "order": 45,
+      "question": "Яқин қариндошлар тўлиқ кўрсатилган қаторни танланг",
+      "options": [
+        {
+          "key": "A",
+          "text": "ота-оналар, ака-укалар, опа-сингиллар, ўғиллар, қизлар, эр-хотинлар, шунингдек эр-хотинларнинг ота-оналари, ака-укалари, опа-сингиллари ва фарзандлари.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "ота-оналар, ака-укалар, опа-сингиллар, шунингдек эр-хотинларнинг фарзандлари.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "ота-оналар, ака-укалар, опа-сингиллар, ўғиллар, қизлар",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "ота-оналар, ака-укалар, опа-сингиллар, ўғиллар, қизлар, эр-хотинлар, шунингдек эр-хотинларнинг ота-оналари, ака-укалари, опа-сингиллари ва уларнинг фарзандлари.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "46",
+      "order": 46,
+      "question": "Ўзбекистон Республикасининг коррупцияга қарши курашиш соҳасидаги ваколатли органи қайси?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Коррупцияга қарши курашиш агенлиги",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Судьялар олий кенгаши",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Миллий гвардия",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Фавқулотда вазиятлар вазирлиги",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "47",
+      "order": 47,
+      "question": "“Коррупцияга қарши курашиш тўғрисида”ги Қонуннинг асосий мақсади нимада?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Коррупциянинг олдини олиш ва унга қарши курашиш",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "коррупцияга оид ҳуқуқбузарликларни ўз вақтида аниқлаш, уларга чек қўйиш, уларнинг оқибатларини, уларга имкон берувчи сабаблар ва шарт-шароитларни бартараф этиш, коррупцияга оид ҳуқуқбузарликларни содир этганлик учун жавобгарликнинг муқаррарлиги принципини таъминлаш",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "давлат ва жамият ҳаётининг барча соҳаларида коррупциянинг олдини олишга доир чора-тадбирларни амалга ошириш",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "аҳолининг ҳуқуқий онги ва ҳуқуқий маданиятини юксалтириш, жамиятда коррупцияга нисбатан муросасиз муносабатни шакллантириш",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "48",
+      "order": 48,
+      "question": "Хизмат фаолиятидаги ташқи кўриниш ва кийиниш услуби қандай бўлиши керак?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Расмийлик, холислик, камтарлик ва интизомни намоён этувчи, умумий қабул қилинган иш услубига мувофиқ.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Атрофдагиларнинг эътиборини ўзига тортадиган даражада.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Фақат энг қимматбаҳо брендлардан иборат бўлиши.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Кийиниш услуби хизмат турига қараб ҳеч қандай аҳамиятга эга эмас.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "49",
+      "order": 49,
+      "question": "Ходимнинг иш фаолиятига оид ахборот ва маълумотлар нима ҳисобланади?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Конфиденциал маълумот.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Шахсий маълумот.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Оммавий маълумот.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Тўғри жавоб йўқ",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "50",
+      "order": 50,
+      "question": "Одоб-ахлоқ қоидаларининг асосий мақсади нима?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Жамоатчилик онгида банкка бўлган ҳурмат ва ишончни ошириш ҳамда номақбул хатти-ҳаракатларнинг олдини олиш.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Ходимларнинг ташқи кўринишини назорат қилиш",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Иш жойида фақат раҳбарларнинг манфаатларини ҳимоя қилиш",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Ходимлар ўртасида рақобатни кучайтириш",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "51",
+      "order": 51,
+      "question": "Ходимлар ишдан бўш вақтларида қандай нормаларга риоя қилишлари шарт?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Умумқабул қилинган ахлоқ нормаларига.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Банкнинг ички тартиб қоидаларига.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Фақат миллий анъаналарга.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Ҳеч қандай нормаларга риоя қилишлари шарт эмас.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "52",
+      "order": 52,
+      "question": "Одоб-ахлоқ қоидаларини бузиш ҳолатлари бўйича хизмат текшируви, агар у коррупция эҳтимоли билан боғлиқ бўлса, қайси департамент томонидан ўтказилади?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Комплаэнс назорат департаменти.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Юридик департамент.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Ички аудит департаменти.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Инсон ресурсларини бошқариш(HR) департаменти.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "53",
+      "order": 53,
+      "question": "Манфаатлар тўқнашуви юзага келган тақдирда ходим нима қилиши шарт?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ўзининг бевосита раҳбарини ва Комплаэнс назорат департаментини дарҳол хабардор қилиши ҳамда тегишли кўрсатма олгунига қадар вазифани бажармаслиги.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Дарҳол вазифани бажаришни давом эттириши.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Фақат Комплаэнс назорат департаментини хабардор қилиши.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Муаммони ўзи мустақил ҳал қилиши.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "54",
+      "order": 54,
+      "question": "Банк ходими ишдан ташқари вақтда қайси фаолият турлари билан, иш берувчи рухсатисиз ҳам шуғулланиши мумкин, агар қонунчиликда бошқача ҳолат назарда тутилмаган бўлса?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Педагогик, илмий ва ижодий фаолият",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Тадбиркорлик",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Банк ходими ишдан ташқари вақтда ҳар қандай фаолият билан шуғулланиши мумкин",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Банк ходими ишдан ташқари вақтда ҳар қандай фаолият билан шуғулланиши мумкин эмас",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "55",
+      "order": 55,
+      "question": "\"Фаворитизм\" тушунчасига қайси таъриф мос келади?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Кадрларни танлаш ва лавозимга тайинлашда бир шахс ёки гуруҳ манфаатларини бошқалардан устун қўйиш.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Маҳаллий манфаатларнигина кўзлаб иш тутиш.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Ўз мансаб мавқеидан шахсий манфаатлар учун фойдаланиш",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Жамоада қарама-қарши гуруҳлар уюштириш.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "56",
+      "order": 56,
+      "question": "Бир ходимнинг ҳаракати ҳам \"манфаатлар тўқнашуви\", ҳам \"коррупция\" сифатида баҳоланиши мумкинми?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ҳа, агар шахсий манфаатдорлик хизмат мажбуриятларига таъсир қилиб , моддий ёки номоддий наф олиш мақсадида қонунга хилоф ҳаракатга олиб келса.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Ҳа, лекин фақат ходим ўз айбига иқрор бўлган тақдирдагина.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Фақат суд қарори билан шундай баҳоланиши мумкин.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Йўқ, бу икки тушунча бир-бирини истисно қилади.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "57",
+      "order": 57,
+      "question": "Коррупция нима?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Шахснинг ўз мансаб ёки хизмат мавқеидан шахсий манфаатларини кўзлаб моддий ёки номоддий наф олиш мақсадида қонунга хилоф равишда фойдаланиши.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Шахсий (бевосита ёки билвосита) манфаатдорлик шахснинг мансаб ёки хизмат мажбуриятларини лозим даражада бажаришига таъсир кўрсатаётган ёхуд таъсир кўрсатиши мумкин бўлган ҳамда шахсий манфаатдорлик билан фуқароларнинг, ташкилотларнинг, жамиятнинг ёки давлатнинг ҳуқуқлари ва қонуний манфаатлари ўртасида қарама-қаршилик юзага келаётган ёки юзага келиши мумкин бўлган вазият.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Маҳаллий манфаатларнигина кўзлаб иш тутиш.Бунда, шахсни унинг наслий келиб чиқиши (аслзода ёки машҳур сулола вакили эканлиги ва у жамоатчилик томонидан эътироф этилганлиги) ҳамда яқин қариндошларининг эгаллаб турган хизмат мавқеи сабабли унинг лавозимга қўйиладиган малака талабларига мос келиш-келмаслигини ҳисобга олмаган ҳолда ишга қабул қилиш, ротация қилиш ва лавозимга тайинлаш",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Маҳаллийчилик ёки ошна-оғайничилик алоқаларини биринчи ўринга қўйган ҳолда, уларга асоссиз имтиёзлар бериш ва қўллаб-қувватлаш мақсадида хизмат мавқеидан фойдаланиш ва (ёки) таъсир ўтказиш.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "58",
+      "order": 58,
+      "question": "\"Маҳаллийчилик\" ва \"Таниш-билишчилик\" атамалари орасидаги асосий фарқ нима?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Таниш-билишчилик асоссиз имтиёзлар бериш учун хизмат мавқеидан фойдаланишни англатади , Маҳаллийчилик эса шахснинг наслий келиб чиқиши ва қариндошларининг мавқеи сабабли малака талабларисиз ишга қабул қилишни англатади.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Маҳаллийчилик фақат авлод-аждодларнинг бир сулолага мансублигига асосланади, таниш-билишчилик эса ҳар қандай шахсий манфаатдорликни ўз ичига олади.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Иккаласи ҳам айнан бир хил маънони англатади.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Таниш-билишчиликда маҳаллий манфаатлар кўзланади, маҳаллийчиликда эса ошна-оғайничилик алоқалари",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "59",
+      "order": 59,
+      "question": "Оммавий ахборот воситалари билан ўзаро ҳамкорликни амалга оширишнинг белгиланган тартиби қандай?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Фақат банкнинг ахборот хизматига масъул таркибий тузилмаси орқали амалга оширилади, бошқа ходимлар учун эса ушбу тузилма билан келишмасдан алоқа қилиш тақиқланади.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Ходимлар бу масалада исталган вақтда мустақил алоқа қилиши мумкин.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Фақат банк Бошқаруви раиси шахсий рухсати билан.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Ходимларга оммавий ахборот воситалари билан алоқа қилиш мутлақо тақиқланади.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "60",
+      "order": 60,
+      "question": "\"Уруғ-аймоқчилик\" ва \"Фаворитизм\" тушунчалари ўртасидаги асосий фарқ нимада?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Уруғ-аймоқчилик ходимларнинг бир сулолага мансублиги асосида нохолис муносабатни англатса , фаворитизм эса келиб чиқишидан қатъи назар, маълум бир шахс ёки гуруҳни бошқалардан устун қўйишни англатади.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Уруғ-аймоқчилик фақат қариндошларга, фаворитизм эса дўстларга имтиёз беришни англатади.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Иккаласи ҳам бир хил маънога эга, аммо турли соҳаларда қўлланилади.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Фаворитизм фақат мукофотлашда, уруғ-аймоқчилик эса фақат ишга қабул қилишда қўлланилади.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "61",
+      "order": 61,
+      "question": "Ходим ўзига нисбатан олиб борилаётган одоб-ахлоқ қоидалари бузилиши бўйича текширув жараёнида қандай ҳуқуқларга эга?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ўзини ҳимоя қилиш учун далилларни тақдим этиш ва комиссия қарорлари юзасидан белгиланган тартибда шикоят қилиш ҳуқуқига.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Текширув натижаларига аралашиш ва ўзгартириш киритиш ҳуқуқига.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Текширув тугагунига қадар ишга чиқмаслик ҳуқуқига.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Комиссия аъзоларини ўзгартиришни талаб қилиш ҳуқуқига.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "62",
+      "order": 62,
+      "question": "Манфаатлар тўқнашувини яшириш ёки уни бартараф этиш чораларини кўрмаслик қандай оқибатларга олиб келиши мумкин?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ходимнинг интизомий жавобгарликка тортилишига сабаб бўлади.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Ҳеч қандай оқибатга олиб келмайди.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Фақат моддий жаримага.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Фақат оғзаки танбеҳга",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "63",
+      "order": 63,
+      "question": "Банк Бошқарув органлари қайсилар ҳисобланади?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Акциядорлар умумий йиғилиши, Кузатув кенгаши, Бошқарув",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "акциядорлар умумий йиғилиши, кузатув кенгаши, бошқарув раиси",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "кузатув кенгаши, бошқарув, банк таркибий тузилмалари",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Барча жавоблар тўғри",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "64",
+      "order": 64,
+      "question": "Банк Бошқаруви аьзолари неча кишидан иборат бўлиши керак?",
+      "options": [
+        {
+          "key": "A",
+          "text": "7 та",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "6 та",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "8 та",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "чеклов йўқ",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "65",
+      "order": 65,
+      "question": "Банк кредит сиёсати ким томонидан тасдиқланади?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Банк Кузатув кенгаши",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Кредит қўмитаси",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Банк Бошқаруви",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Банк акциядорлари",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "66",
+      "order": 66,
+      "question": "Марказий банк раиси нечи йил муддатга сайланади?",
+      "options": [
+        {
+          "key": "A",
+          "text": "5 йил",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "4 йил",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "3 йил",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "2 йил",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "67",
+      "order": 67,
+      "question": "Жисмоний ва юридик шахсларнинг мурожаатлари  қўйилган масалаларни ҳал этиш ваколат доирасига кирмайдиган давлат органига юборилган тақдирда неча кунлик муддат ичида тегишли органларга жўнатилади?",
+      "options": [
+        {
+          "key": "A",
+          "text": "5 кунлик",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "3 кунлик муддатда",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "4 кунлик",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "6 кунлик",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "68",
+      "order": 68,
+      "question": "Қўшимча ўрганишни талаб қилмайдиган мурожаатлар неча кунлик муддат ичида кўриб чиқилиши лозим",
+      "options": [
+        {
+          "key": "A",
+          "text": "15 кунлик",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "5 кунлик",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "10 кунлик",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "20 кунлик",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "69",
+      "order": 69,
+      "question": "Қандай ҳолатларда топшириқларнинг ўз вақтида ва сифатли бажарилмаганлиги учун раҳбариятга таъсир чоралари таклиф этилади?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ижрочи томонидан белгиланган муддатга риоя қилинмаганида",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Таркибий бўлинманинг талабига кўра",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Ҳужжат ижроси кечиктирилганда, аммо тўлиқ ҳужжатланган ҳолда",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Барча жавоблар тўғри",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "70",
+      "order": 70,
+      "question": "Аноним мурожаатлар деганда нимани тушунасиз?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Барча жавоблар тўғри.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Фуқаро мурожаатида муаллифнинг фамилияси (исми, отасининг исми) мавжуд эмалиги.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Фуқаро мурожаатида муаллифнинг яшаш жойи тўғрисидаги маълумотлар кўрсатилмаганлиги",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Фуқаро мурожаатида муаллифнинг шахсига тегишли маълумотларнинг сохта кўрсатилганлиги, шунингдек имзо қўйилмаганлиги.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "71",
+      "order": 71,
+      "question": "Мурожаатлар қандай турларга бўлинади ?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Мурожаатлар аризалар, таклифлар ва шикоятлар тарзида бўлиши мумкин.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Ариза ва шикоят",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Шикоят ва таклиф",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Ёзма ва электрон",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "72",
+      "order": 72,
+      "question": "Мурожаатлар қандай шаклларда бўлади ?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Мурожаатлар оғзаки, ёзма ёхуд электрон шаклда бўлиши мумкин",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Ёзма ва электрон шаклда",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Оғзаки ва ёзма шаклда",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Барча жавоблар тўғри",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "73",
+      "order": 73,
+      "question": "“Ijro.gov.uz” тизимини жорий этиш мақсадида қайси ҳужжат қабул қилинган?",
+      "options": [
+        {
+          "key": "A",
+          "text": "2021-йил 31-майдаги PQ-5132-сонли қарор",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Ўзбекистон Республикаси Президентининг 2021-йил 10-февралдаги PF-6166-сонли Фармони",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "1999-йил 12-январдаги 12-сонли қарор",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "2017-йил 9-августдаги F-5017-сонли фармойиш",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "74",
+      "order": 74,
+      "question": "Назорат қилинадиган ҳужжатларнинг тайёрланган ички ҳужжати қанча муддатда ҳудудий бошқармаларга етказилиши шарт?",
+      "options": [
+        {
+          "key": "A",
+          "text": "1 кеча-кундуз ичида",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "2 кун ичида",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "3 иш куни ичида",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "муддат белгиланмаган",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "75",
+      "order": 75,
+      "question": "Жамоавий мурожаатларга жавоблар қандай тартибда юборилади ?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Агар мурожаатда жавобни бошқа шахсга юбориш талаб этилмаган бўлса, мурожаат қилувчиларнинг рўйхатида биринчи кўрсатилган шахсга",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Мурожаатда номлари кўрсатилган шахсларнинг ҳар бирига",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Мурожаат қилувчиларнинг рўйхатида биринчи кўрсатилган шахсга",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Барча жавоблар тўғри",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "76",
+      "order": 76,
+      "question": "Мурожаат қилиш муддатлари қайси жавобда тўғри кўрсатилган ?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Мурожаатларни бериш муддатлари, қоида тариқасида, белгиланмайди",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Бир ой муддатда",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "15 кундан ошмаган муддатда",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "1 ойдан кечиктирмаган муддатда",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "77",
+      "order": 77,
+      "question": "Қандай мурожаатлар кўриб чиқилмайди ?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Барча жавоблар тўғри",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "аноним мурожаатлар",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "жисмоний ва юридик шахсларнинг вакиллари орқали берилган мурожаатлар,",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "мурожаатчиларнинг ваколатини тасдиқловчи ҳужжатлар мавжуд бўлмаган тақдирда",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "78",
+      "order": 78,
+      "question": "Мурожаатларни кўриб чиқиш муддати қанча ?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Мурожаат келиб тушган кундан эътиборан 15 кун ичида, қўшимча ўрганиш ва (ёки) текшириш, қўшимча ҳужжатларни сўраб олиш талаб этилганда эса, бир ойгача бўлган муддатда",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Мурожаат келиб тушган кундан бошлаб 15 кун ичида",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Мурожаат келиб тушган кундан бошлаб 1 ойгача бўлган муддатда",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Мурожаат келиб тушган кундан бошлаб 15 кун ичида",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "79",
+      "order": 79,
+      "question": "Назорат қилинадиган ҳужжатларнинг ижроси бўйича ички ҳужжат тайёрлаш муддатлари қандай ҳолларда ўзгариши мумкин?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Агар бошқа муддат белгиланмаган бўлса",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Банк раҳбариятининг кўрсатмасига кўра",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Ҳужжат кечиктириб келиб тушган ҳолларда",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Ходимларнинг бандлик даражасига қараб",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "80",
+      "order": 80,
+      "question": "Банк ходимларини ишга қабул қилиш, лавозимидан озод этиш, бошқа лавозимга ўтказиш ва иш ҳақи тўловлари бўйича буйруқлар ким томонидан қўшимча равишда имзоланади?\n(12-сон Тартиб 18-банд)",
+      "options": [
+        {
+          "key": "A",
+          "text": "Бундай буйруқлар қўшимча равишда Бухгалтерия ҳисоби ва молиявий менежмент департаменти раҳбари томонидан имзоланади.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Бундай буйруқлар қўшимча равишда Кадрлар бўлими бошлиғи томонидан имзоланади.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Бундай буйруқлар қўшимча равишда Юридик департамент директори томонидан имзоланади",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Бундай буйруқлар қўшимча равишда барча Бошқарув раиси ўринбосари томонидан имзоланади.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "81",
+      "order": 81,
+      "question": "“Фуқароларнинг мурожаатлари тўғрисида”ги Қонунининг асосий мақсад ва вазифалари нималардан иборат?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ушбу қонун фуқароларнинг давлат органларига, муассасаларига  мурожаатлари соҳасидаги муносабатларни тартибга солади",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Ушбу қонун фуқаролар ўртасидаги ўзаро муносабатларни тартибга солади",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Ушбу қонун жисмоний ва юридик шахслар ўртасидаги ўзаро муносабатларни тартибга солади",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Барча жавоблар тўғри",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "82",
+      "order": 82,
+      "question": "Ариза тушунчасига таъриф беринг",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ариза – фуқароларнинг ўз ҳуқуқлари, эркинликлари ва қонуний манфаатларини рўёбга чиқаришда ёрдам кўрсатиш тўғрисидаги илтимоси баён этилган мурожаатидир.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Ариза – фуқароларнинг давлат ва жамият фаолиятини такомиллаштиришга доир тавсияларини ўз ичига олган мурожаатидир.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Ариза – фуқароларнинг бузилган ҳуқуқлари, эркинликлари ва қонуний манфаатларини тиклаш тўғрисидаги талаби баён этилган мурожаатидир.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Барча жавоблар тўғри",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "83",
+      "order": 83,
+      "question": "Қандай ҳолларда билдиришнома лойиҳасини Ижро назорати департаменти билан келишиш талаб этилмайди?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ички аудит департаменти ва Комплаенс назорати департаменти текширув натижалари бўйича",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Бошқарув раисига тақдим этилмаганда",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Асослантирувчи қисмда хато бўлганда",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Таклиф қисм йўқ бўлганда",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "84",
+      "order": 84,
+      "question": "“Бизнесни ривожлантириш банки” ATBнинг ишлаб чиқилган ички тартиблари асосан қайси ҳужжатларга асосланади?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Барча жавоблар тўғри",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Банкнинг ички низомлари ва қоидалари",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Ўзбекистон Республикасининг “Банклар ва банк фаолияти тўғрисида”ги Қонуни",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Ўзбекистон Республикаси Президенти ва Вазирлар Маҳкамаси қарорлари",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "85",
+      "order": 85,
+      "question": "Қарз олувчининг ва (ёки) гаровга қўювчининг қандай ҳуқуқлари банк томонидан чекланиши мумкин эмас?",
+      "options": [
+        {
+          "key": "A",
+          "text": "барча жавоблар тўғри",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "мурожаат қилиш ҳуқуқи",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "суғурта компаниясини танлаш ҳуқуқи",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "баҳоловчини танлаш ҳуқуқи",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "86",
+      "order": 86,
+      "question": "Банк тизимида ички ҳужжатларни тузиш ва расмийлаштириш қандай ҳужжатга асосан амалга оширилади?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ўзбекистон Республикаси Вазирлар Маҳкамасининг 1999-йил 29-мартдаги 140-сонли қарори",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "1999-йил 12-январдаги 12-сонли қарор",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "2021-йил 31-майдаги PQ-5132-сонли қарор",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Ўзбекистон Республикаси Президентининг 2021-йил 10-февралдаги PF-6166-сонли Фармони",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "87",
+      "order": 87,
+      "question": "\"Ijro.gov.uz\" электрон тизими асосида ҳужжатларнинг ижроси қандай мақсадлар учун ташкил этилади?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Давлат органлари раҳбарларининг шахсий масъулиятини кучайтириш",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Ходимлар самарадорлигини ошириш учун ҳисобот бериш",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Идораларда ижро тизимини автоматлаштириш фаолиятини автоматлаштириш",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Барча жавоблар тўғри",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "88",
+      "order": 88,
+      "question": "Қонунлар, Президент Фармонлари ва қарорлари, Вазирлар Маҳкамасининг қарор ва фармойишларида қўйилган вазифаларни амалга оширишни таъминловчи ўз қарорлари (буйруқ, фармойиш, чора-тадбирлар ва ҳ.к.) қанча муддатда тайёрланиши лозим?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ҳужжат олинган санадан бошлаб 3 кун ичида, агар ҳужжатда бошқа муддат белгиланмаган бўлса",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Ҳужжат олинган санадан бошлаб 10 кун ичида",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Ҳужжат олинган санадан бошлаб бир ҳафта ичида",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Ҳужжат олинган санадан бошлаб 5 кун ичида",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "89",
+      "order": 89,
+      "question": "Мурожаатга дастлабги жавоб бериш муддати нечи кундан иборат?",
+      "options": [
+        {
+          "key": "A",
+          "text": "15 кун",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "10 кун",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "30 кун",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "муддат белгиланмаган",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "90",
+      "order": 90,
+      "question": "Мурожаатлар қайси ҳолларда кўрмасдан қолдирилади ?",
+      "options": [
+        {
+          "key": "A",
+          "text": "аноним мурожаатлар; жисмоний ва юридик шахсларнинг вакиллари орқали берилган мурожаатлар, уларнинг ваколатини тасдиқловчи ҳужжатлар мавжуд бўлмаган тақдирда;қонунда белгиланган бошқа талабларга мувофиқ бўлмаган мурожаатлар",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "аноним мурожаатлар;",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "жисмоний ва юридик шахсларнинг вакиллари орқали берилган мурожаатлар, уларнинг ваколатини тасдиқловчи ҳужжатлар мавжуд бўлмаган тақдирда;",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Барча жавоблар тўғри",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "91",
+      "order": 91,
+      "question": "Чиқиш ҳужжатларини расмийлаштиришда имзо қўйиши лозим бўлган раҳбарни ўрнига чизиқча билан бошқа рахбар имзо қўйиши мумкинми?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Йўқ, мумкин эмас. Ҳужжат фақат белгиланган масъул раҳбар томонидан имзоланиши керак.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Ҳа, мумкин. Агар раҳбар иш жойида бўлмаса, унинг ўрнига бошқа раҳбар чизиқча билан имзо қўйиши мумкин, кейин бу ҳақда оғзаки хабар берса етарли.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Чизиқча билан имзо қўйиш мумкин, лекин бу ҳолатда ҳужжатда “вазифасини бажарувчи” деб ёзилиши керак.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Истисно равишда шошилинч ҳолатларда унинг ўрнини босувчи шахс тўғридан-тўғри ваколат берилган буйруқ асосида имзо қўйиши мумкин, аммо чизиқча билан эмас.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "92",
+      "order": 92,
+      "question": "Қонунга мувофиқ кимлар Ўзбекистон Республикаси давлат органларига, ташкилотларига ва уларнинг мансабдор шахсларига  мурожаат этиш ҳуқуқига эга.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Жисмоний ва юридик шахслар, Хорижий давлатларнинг жисмоний ва юридик шахслари, фуқаролиги бўлмаган шахслар",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Ўзбекистон Республикаси фуқаролари ва Ўзбекистон Республикасида фаолият олиб бораётган барча юридик шахслар.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Жисмоний ва юридик шахслар, Хорижий давлатларнинг жисмоний ва юридик шахслари",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Ўзбекистон Республикаси фуқаролари, юридик шахслар ва фуқаролиги бўлмаган шахслар",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "93",
+      "order": 93,
+      "question": "Oʻzbekiston Respublikasining “Banklar va bank faoliyati toʻgʻrisida”gi Qonuniga koʻra, banklarga qaysi faoliyat turi bilan shugʻillanish taqiqlanadi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Banklar bevosita ishlab chiqarish, savdo, sugʻurta faoliyati hamda banklar va bank faoliyati toʻgʻrisidagi qonunchilikda nazarda tutilgan moliyaviy operatsiyalarni amalga oshirish bilan bogʻliq boʻlmagan boshqa faoliyat bilan shugʻullanishga haqli emas",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "bank kartalari asosida naqd pulsiz hisob-kitoblar tizimlarida foydalaniladigan ixtisoslashtirilgan uskunani va unga doir dasturiy taʼminotni sotish yoki ijaraga berish.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "oʻz aktivlarini sotish.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "sugʻurta tashkilotlari boʻlgan Oʻzbekiston Respublikasi rezidentlari nomidan sugʻurta shartnomasi tuzilishini tashkil etish boʻyicha faoliyatni amalga oshirish.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "94",
+      "order": 94,
+      "question": "Banklar oʻz faoliyatini qaysi qonunlarga asosan amalga oshiradi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Oʻzbekiston Respublikasining “Banklar va bank faoliyati toʻgʻrisida”gi Qonuni, “Bank siri toʻgʻrisida”gi Qonuni, “Tijorat siri toʻgʻrisida”gi Qonuni, “Garov toʻgʻrisida”gi Qonun, “Markaziy bank toʻgʻrisida”gi Qonuni, “Banklarni sanatsiya qilish va tugatish toʻgʻrisida”gi Qonuni va boshqalar.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "“Jinoiy faoliyatdan olingan daromadlarni legallashtirishga va terrorizmni moliyalashtirishga qarshi kurashish toʻgʻrisida”gi Qonun, Oʻzbekiston Respublikasi Markaziy banki tomonidan banklar va ularning filiallarida inspeksiya (tekshirish) oʻtkazish tartibi toʻgʻrisidagi nizom, Oʻzbekiston Respublikasi Markaziy banki tomonidan nobank kredit tashkilotlari faoliyatini tekshirish tartibi toʻgʻrisidagi nizom.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Bank xizmatlari isteʼmolchilari bilan oʻzaro munosabatlarni amalga oshirishda tijorat banklarining faoliyatiga qoʻyiladigan minimal talablar toʻgʻrisida Nizom, Oʻzbekiston Respublikasi tijorat banklarining axborot xavfsizligi va kiberxavfsizligiga doir minimal talablar toʻgʻrisidagi Nizom, Banklar tomonidan Omonatlarni kafolatlash jamgʻarmasiga badallar toʻlash tartibi toʻgʻrisidagi Nizom va shu kabi boshqalar.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Tijorat banklarining likvidliligini boshqarishga qoʻyiladigan talablar toʻgʻrisidagi Nizom, Tijorat banklari kapitalining monandligiga qoʻyiladigan talablar toʻgʻrisidagi Nizom, Oʻzbekiston Respublikasi Markaziy bankining hisob-kitoblar kliring tizimi toʻgʻrisidagi nizom va shu kabi boshqalar.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "95",
+      "order": 95,
+      "question": "Oʻzbekiston Respublikasining Konstitutsiyasiga koʻra, Markaziy bank oʻzining qonunchilik tashabbusi huquqini qanday amalga oshiradi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Markaziy bankda qonunchilik tashabbusi huquqi mavjud emas.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "amaldagi qonunchilikka belgilangan tartibda tuzutish va oʻzgartirishlar kiritish orqali.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Bank faoliyatiga aloqador boʻlgan maʼlum bir qonun yoki qonun loyihasiga takliflar ishlab chiqib, uni qonunchilik palatasiga taqdim qilish orqali.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "faqat Oliy majlis senatiga xizmat yozishmasi yuborish orqali.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "96",
+      "order": 96,
+      "question": "Oʻzbekiston Respublikasi Markaziy banki boshqaruvining raisi kim tomonidan lavozimiga tayinlanadi va undan ozod etiladi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Oʻzbekiston Respublikasi Prezidentining taqdimiga binoan Senat tomonidan tayinlanadi va lavozimidan ozod etiladi.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Oʻzbekiston Respublikasi Prezidenti tomonidan lovizimiga tayinlanadi va undan ozod etiladi.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Aksiyadorlarning umumiy yigʻilishi qarori bilan lovizimiga tayinlanadi va undan ozod etiladi.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Oʻzbekiston Respublikasi Bosh vazirining taqdimiga binoan Senat tomonidan tayinlanadi va lavozimidan ozod etiladi.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "97",
+      "order": 97,
+      "question": "Fuqarolarning banklardagi omonatlarini himoyalash kafolatlari qaysi qonun bilan tartibga solinadi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "“Fuqarolarning banklardagi omonatlarini himoyalash kafolatlari toʻgʻrisida”gi Qonun",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "“Kredit va kredit munosabatlari toʻgʻrisida”gi Qonun",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "“Bank faoliyati toʻgʻrisida”gi Qonun",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "“Moliya bozori toʻgʻrisida”gi Qonun",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "98",
+      "order": 98,
+      "question": "Agar bank litsenziyasi bekor qilinsa, fuqarolarning depozitlari qanday qilib qoplanadi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Omonatlar toʻliq miqdorda yoki fond kafolati asosida toʻlanadi",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Hech qanday toʻlov amalga oshirilmaydi",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Faqat bir qismi qoplanadi",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Faqat davlat qarzi orqali qoplanadi",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "99",
+      "order": 99,
+      "question": "Bank sirini tashkil etuvchi maʼlumotlar kimlarga taqdim etilishi mumkin?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Barcha javoblar toʻgʻri",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "mijozning oʻziga (vakiliga), u vakolat bergan vakilga",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Oʻzbekiston Respublikasi Hisob palatasiga",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "prokuratura, dastlabki tergov, surishtiruv organlari va tezkor-qidiruv faoliyatini amalga oshiruvchi organlar, shuningdek chet davlatlarning vakolatli organlari oʻrtasida bank sirini tashkil etuvchi maʼlumotlarni Oʻzbekiston Respublikasining qonunchiligida hamda xalqaro shartnomalarida nazarda tutilgan tartibda.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "100",
+      "order": 100,
+      "question": "Kredit tashkilotlarini belgilang.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Barcha javoblar toʻgʻri.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "ipotekani qayta moliyalashtirish tashkiloti",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "mikromoliya tashkiloti",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Lombard",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "101",
+      "order": 101,
+      "question": "Korrupsiyaga qarshi kurashish boʻyicha faoliyatni bevosita amalga oshiruvchi davlat organlari qaysilar?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Barcha javoblar toʻgʻri.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Oʻzbekiston Respublikasi Adliya vazirligi",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Oʻzbekiston Respublikasi Bosh prokuraturasi",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Oʻzbekiston Respublikasi Bosh prokuraturasi huzuridagi Iqtisodiy jinoyatlarga qarshi kurashish departamenti",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "102",
+      "order": 102,
+      "question": "Murojaat shakllari toʻgʻri koʻrsatilgan javobni belgilang?",
+      "options": [
+        {
+          "key": "A",
+          "text": "yozma, ogʻzaki va elektron.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Ariza, taklif va iltimosnoma.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "shikoyat va taklif.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Ariza, taklif va shikoyat.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "103",
+      "order": 103,
+      "question": "Markaziy bank qaysi davlat organi oldida hisobdor?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Oʻzbekiston Respublikasi Oliy Majlisi Senati.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Oʻzbekiston Respublikasining Prezidenti.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Oʻzbekiston Respublikasi Oliy Majlisi Qonunchilik palatasi.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Oʻzbekiston Respublikasi Bosh vaziri.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "104",
+      "order": 104,
+      "question": "Markaziy bank raisining birinchi oʻrinbosari va oʻrinbosarlari  kim tomonidan tayinlanadi va lavozimidan ozod qilinadi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Oʻzbekiston Respublikasi Prezidenti.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Oʻzbekiston Respublikasi Markaziy banki raisi.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Oʻzbekiston Respublikasi Oliy Majlisi Qonunchilik palatasi Spikeri.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Oʻzbekiston Respublikasi Oliy Majlisi Senati raisi.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "105",
+      "order": 105,
+      "question": "Yangi Mehnat Kodeksiga koʻra xodimga ishlagan 6 oy oʻtguniga qadar ham mehnat taʼtili berilishi mumkinmi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ha, mehnat shartnomasi taraflarinig kelishuviga koʻra mumkin",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Yoʻq, 1-ish yili uchun mehnat taʼtili faqat xodim uzliksiz ishlagan 6 oy oʻtkanidan keyin beriladi",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Ha, faqat kasaba uyushmasinig roziligi bilan mumkin",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Yoʻq, faqat istisnoli holatlardagina mumkin",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    }
+  ]
+}
