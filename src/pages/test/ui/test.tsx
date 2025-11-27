@@ -97,9 +97,9 @@ const Test = () => {
       const raqamli = data["raqamli"];
       const mix = data["mix"];
 
-      const raqamliRandom = [...raqamli.items].sort(() => Math.random() - 0.5).slice(0, 40);
+      const raqamliRandom = [...raqamli.items].sort(() => Math.random() - 0.5).slice(0, 38);
 
-      const mixRandom = [...mix.items].sort(() => Math.random() - 0.5).slice(0, 10);
+      const mixRandom = [...mix.items].sort(() => Math.random() - 0.5).slice(0, 12);
 
       const combined = [...raqamliRandom, ...mixRandom].sort(() => Math.random() - 0.5);
 
@@ -185,7 +185,7 @@ const Test = () => {
 
         {quizType === "quiz" && (
           <Modal opened={quizOpened} onClose={() => null} withCloseButton={false} centered>
-            Bu yerda sizga 50 ta test taqdim etiladi: 40 ta "Raqamli texnologiyalar" bo'yicha va 10
+            Bu yerda sizga 50 ta test taqdim etiladi: 38 ta "Raqamli texnologiyalar" bo'yicha va 12
             ta "Barchaga" mo'ljallangan testlar. Testlar tasodifiy tarzda tanlangan. 45 daqiqa
             vaqtingiz bor. Testni boshlash uchun "Boshlash" tugmasini bosing.
             <Flex mt={10} justify="flex-end" gap="md">
