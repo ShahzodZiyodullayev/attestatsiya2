@@ -1,17 +1,17 @@
 {
   "title": "Axborot xizmati",
-  "sourceFileName": "Axborot xizmati.docx",
-  "count": 100,
+  "sourceFileName": "Fil set.docx",
+  "count": 11,
   "items": [
     {
       "id": "1",
       "order": 1,
-      "question": "“Davlat hokimiyati va boshqaruvi organlari faoliyatining ochiqligi toʻgʻrisida”gi Qonuni qachondan kuchga kirgan?",
+      "question": "“Davlat hokimiyati va boshqaruvi organlari faoliyatining ochiqligi to‘g‘risida”gi Qonuni qachondan kuchga kirgan?",
       "options": [
         {
           "key": "A",
-          "text": "2014-yil 3-may",
-          "correct": false
+          "text": "2014-yil 5-may",
+          "correct": true
         },
         {
           "key": "B",
@@ -25,17 +25,17 @@
         },
         {
           "key": "D",
-          "text": "2014-yil 5-may",
-          "correct": true
+          "text": "2014-yil 3-may",
+          "correct": false
         }
       ],
-      "answerKey": "D",
-      "locale": "mixed"
+      "answerKey": "A",
+      "locale": "uz"
     },
     {
       "id": "2",
       "order": 2,
-      "question": "“Oʻzbekiston Respublikasi Prezidentining ‘Ommaviy axborot vositalari mustaqilligini taʼminlash hamda davlat organlari va tashkilotlari axborot xizmatlari faoliyatini rivojlantirish boʻyicha qoʻshimcha chora-tadbirlar toʻgʻrisida’gi Qarori qachon qabul qilingan?”",
+      "question": "O‘zbekiston Respublikasi Prezidentining “Ommaviy axborot vositalari mustaqilligini ta’minlash hamda davlat organlari va tashkilotlari axborot xizmatlari faoliyatini rivojlantirish bo‘yicha qo‘shimcha chora-tadbirlar to‘g‘risida”gi Qarori qachon qabul qilingan?",
       "options": [
         {
           "key": "A",
@@ -59,36 +59,36 @@
         }
       ],
       "answerKey": "A",
-      "locale": "mixed"
+      "locale": "uz"
     },
     {
       "id": "3",
       "order": 3,
-      "question": "“Public Relations” atamasining maʼnosi nima?",
+      "question": "“Public Relations” atamasining ma’nosi nima?",
       "options": [
         {
           "key": "A",
-          "text": "Jamoatchilik bilan munosabatlar",
-          "correct": false
+          "text": "Barchasi to‘g‘ri",
+          "correct": true
         },
         {
           "key": "B",
-          "text": "Ommaviy aloqalar",
-          "correct": false
-        },
-        {
-          "key": "C",
           "text": "Jamoatchilik bilan aloqalar",
           "correct": false
         },
         {
+          "key": "C",
+          "text": "Ommaviy aloqalar",
+          "correct": false
+        },
+        {
           "key": "D",
-          "text": "Barchasi toʻgʻri",
-          "correct": true
+          "text": "Jamoatchilik bilan munosabatlar",
+          "correct": false
         }
       ],
-      "answerKey": "C",
-      "locale": "mixed"
+      "answerKey": "A",
+      "locale": "uz"
     },
     {
       "id": "4",
@@ -112,12 +112,12 @@
         },
         {
           "key": "D",
-          "text": "Asosiy maʼruza tezislari",
+          "text": "Asosiy ma’ruza tezislari",
           "correct": false
         }
       ],
       "answerKey": "A",
-      "locale": "mixed"
+      "locale": "uz"
     },
     {
       "id": "5",
@@ -146,7 +146,7 @@
         }
       ],
       "answerKey": "A",
-      "locale": "mixed"
+      "locale": "uz"
     },
     {
       "id": "6",
@@ -155,13 +155,13 @@
       "options": [
         {
           "key": "A",
-          "text": "9 ta",
-          "correct": false
+          "text": "3 ta",
+          "correct": true
         },
         {
           "key": "B",
-          "text": "3 ta",
-          "correct": true
+          "text": "9 ta",
+          "correct": false
         },
         {
           "key": "C",
@@ -174,8 +174,8 @@
           "correct": false
         }
       ],
-      "answerKey": "B",
-      "locale": "mixed"
+      "answerKey": "A",
+      "locale": "uz"
     },
     {
       "id": "7",
@@ -199,12 +199,12 @@
         },
         {
           "key": "D",
-          "text": "Barchasi notoʻgʻri",
+          "text": "Barchasi noto‘g‘ri",
           "correct": false
         }
       ],
       "answerKey": "A",
-      "locale": "mixed"
+      "locale": "uz"
     },
     {
       "id": "8",
@@ -213,8 +213,8 @@
       "options": [
         {
           "key": "A",
-          "text": "Barchasi toʻgʻri",
-          "correct": false
+          "text": "Internet marketing turi",
+          "correct": true
         },
         {
           "key": "B",
@@ -228,12 +228,12 @@
         },
         {
           "key": "D",
-          "text": "Internet marketing turi",
-          "correct": true
+          "text": "Barchasi to‘g‘ri",
+          "correct": false
         }
       ],
-      "answerKey": "D",
-      "locale": "mixed"
+      "answerKey": "A",
+      "locale": "uz"
     },
     {
       "id": "9",
@@ -242,12 +242,12 @@
       "options": [
         {
           "key": "A",
-          "text": "OAVning turi, davriyligi kabi maʼlumotlarini oʻz ichiga olgan roʻyxat",
+          "text": "OAVning turi, davriyligi kabi ma’lumotlarini o‘z ichiga olgan ro‘yxat",
           "correct": true
         },
         {
           "key": "B",
-          "text": "Telekanallar roʻyxati",
+          "text": "Telekanallar ro‘yxati",
           "correct": false
         },
         {
@@ -262,7 +262,7 @@
         }
       ],
       "answerKey": "A",
-      "locale": "mixed"
+      "locale": "uz"
     },
     {
       "id": "10",
@@ -271,27 +271,27 @@
       "options": [
         {
           "key": "A",
-          "text": "OAV bilan samarali hamkorlik strategiyasi",
-          "correct": false
+          "text": "Hammasi to‘g‘ri",
+          "correct": true
         },
         {
           "key": "B",
-          "text": "Kommunikatsion menejment texnologiyasi",
+          "text": "OAV bilan tizimli aloqalar",
           "correct": false
         },
         {
           "key": "C",
-          "text": "OAV bilan tizimli aloqalar",
-          "correct": true
+          "text": "Kommunikatsion menejment texnologiyasi",
+          "correct": false
         },
         {
           "key": "D",
-          "text": "Hammasi toʻgʻri",
+          "text": "OAV bilan samarali hamkorlik strategiyasi",
           "correct": false
         }
       ],
-      "answerKey": "C",
-      "locale": "mixed"
+      "answerKey": "A",
+      "locale": "uz"
     },
     {
       "id": "11",
@@ -320,7 +320,7 @@
         }
       ],
       "answerKey": "A",
-      "locale": "mixed"
+      "locale": "uz"
     },
     {
       "id": "12",
@@ -329,13 +329,13 @@
       "options": [
         {
           "key": "A",
-          "text": "Tashkilot haqida maʼlumotnoma",
-          "correct": false
+          "text": "Muayyan mavzudagi axborotlar yig‘indisi",
+          "correct": true
         },
         {
           "key": "B",
-          "text": "Muayyan mavzudagi axborotlar yigʻindisi",
-          "correct": true
+          "text": "Tashkilot haqida ma’lumotnoma",
+          "correct": false
         },
         {
           "key": "C",
@@ -344,12 +344,12 @@
         },
         {
           "key": "D",
-          "text": "Toʻgʻri javob yoʻq",
+          "text": "To‘g‘ri javob yo‘q",
           "correct": false
         }
       ],
-      "answerKey": "B",
-      "locale": "mixed"
+      "answerKey": "A",
+      "locale": "uz"
     },
     {
       "id": "13",
@@ -358,27 +358,27 @@
       "options": [
         {
           "key": "A",
-          "text": "Savol berilmaydi",
-          "correct": false
+          "text": "Barchasi to‘g‘ri",
+          "correct": true
         },
         {
           "key": "B",
-          "text": "Unda faqat maʼruza boʻladi",
+          "text": "Unda faqat ma’ruza bo‘ladi",
           "correct": false
         },
         {
           "key": "C",
-          "text": "Jurnalistlar soni chegaralanmaydi",
+          "text": "Savol berilmaydi",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Barchasi toʻgʻri",
-          "correct": true
+          "text": "Jurnalistlar soni chegaralanmaydi",
+          "correct": false
         }
       ],
-      "answerKey": "D",
-      "locale": "mixed"
+      "answerKey": "A",
+      "locale": "uz"
     },
     {
       "id": "14",
@@ -387,27 +387,27 @@
       "options": [
         {
           "key": "A",
+          "text": "Rasmiy shaxslar va tashkilot rahbarlari uchun ma’ruza yozuvchi",
+          "correct": true
+        },
+        {
+          "key": "B",
           "text": "OAV vakillari bilan uchrashuvchi maxsus vakil",
           "correct": false
         },
         {
-          "key": "B",
-          "text": "Rasmiy shaxslar va tashkilot rahbarlari uchun maʼruza yozuvchi",
-          "correct": true
-        },
-        {
           "key": "C",
-          "text": "Hisobot yozuvchi",
+          "text": "Tashkilotga istalgan payt erkin kirishi mumkin bo‘lgan jurnalist",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Tashkilotga istalgan payt erkin kirishi mumkin boʻlgan jurnalist",
+          "text": "Hisobot yozuvchi",
           "correct": false
         }
       ],
-      "answerKey": "B",
-      "locale": "mixed"
+      "answerKey": "A",
+      "locale": "uz"
     },
     {
       "id": "15",
@@ -416,12 +416,12 @@
       "options": [
         {
           "key": "A",
-          "text": "PR sohasiga aloqasi yoʻq kasb",
-          "correct": false
+          "text": "Yangilik va media jarayonlarni boshqaruvchi PR mutaxassis",
+          "correct": true
         },
         {
           "key": "B",
-          "text": "Matbuot kotibi yordamchisi",
+          "text": "PR sohasiga aloqasi yo‘q kasb",
           "correct": false
         },
         {
@@ -431,12 +431,12 @@
         },
         {
           "key": "D",
-          "text": "Yangilik va media jarayonlarni boshqaruvchi PR mutaxassis",
-          "correct": true
+          "text": "Matbuot kotibi yordamchisi",
+          "correct": false
         }
       ],
-      "answerKey": "D",
-      "locale": "mixed"
+      "answerKey": "A",
+      "locale": "uz"
     },
     {
       "id": "16",
@@ -445,27 +445,27 @@
       "options": [
         {
           "key": "A",
-          "text": "Press-reliz yozish qoidasi",
-          "correct": false
-        },
-        {
-          "key": "B",
-          "text": "Brifing rejasi",
-          "correct": false
-        },
-        {
-          "key": "C",
           "text": "Loyiha yoki tadbirlarni rejalashtirish va baholash",
           "correct": true
         },
         {
+          "key": "B",
+          "text": "Press-reliz yozish qoidasi",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Brifing rejasi",
+          "correct": false
+        },
+        {
           "key": "D",
-          "text": "Toʻgʻri javob yoʻq",
+          "text": "To‘g‘ri javob yo‘q",
           "correct": false
         }
       ],
-      "answerKey": "C",
-      "locale": "mixed"
+      "answerKey": "A",
+      "locale": "uz"
     },
     {
       "id": "17",
@@ -474,27 +474,27 @@
       "options": [
         {
           "key": "A",
-          "text": "Axborot xizmati haqidagi maʼlumotlar toʻliq aks etuvchi matn",
-          "correct": false
-        },
-        {
-          "key": "B",
-          "text": "Mavzuni toʻliq qamrab olgan birlamchi axborotlarni aks ettiradigan matn",
+          "text": "Mavzuni to‘liq qamrab olgan birlamchi axborotlarni aks ettiradigan matn",
           "correct": true
         },
         {
+          "key": "B",
+          "text": "Axborot xizmati haqidagi ma’lumotlar to‘liq aks etuvchi matn",
+          "correct": false
+        },
+        {
           "key": "C",
-          "text": "Tashkilot haqidagi maʼlumotlar toʻliq aks etuvchi matn",
+          "text": "Tashkilot haqidagi ma’lumotlar to‘liq aks etuvchi matn",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Jurnalistlar tarkibi haqidagi maʼlumotlar toʻliq aks etuvchi matn",
+          "text": "Jurnalistlar tarkibi haqidagi ma’lumotlar to‘liq aks etuvchi matn",
           "correct": false
         }
       ],
-      "answerKey": "B",
-      "locale": "mixed"
+      "answerKey": "A",
+      "locale": "uz"
     },
     {
       "id": "18",
@@ -503,18 +503,18 @@
       "options": [
         {
           "key": "A",
-          "text": "Matbuot anjumanida ishtirok etuvchi OAV roʻyxati",
-          "correct": false
+          "text": "Loyiha to‘g‘risidagi matnli, audio-video shakldagi hujjatlarni o‘zida aks ettiradi",
+          "correct": true
         },
         {
           "key": "B",
-          "text": "Axborot xizmati tarkibi",
+          "text": "Matbuot anjumanida ishtirok etuvchi OAV ro‘yxati",
           "correct": false
         },
         {
           "key": "C",
-          "text": "Loyiha toʻgʻrisidagi matnli, audio-video shakldagi hujjatlarni oʻzida aks ettiradi",
-          "correct": true
+          "text": "Axborot xizmati tarkibi",
+          "correct": false
         },
         {
           "key": "D",
@@ -522,8 +522,8 @@
           "correct": false
         }
       ],
-      "answerKey": "C",
-      "locale": "mixed"
+      "answerKey": "A",
+      "locale": "uz"
     },
     {
       "id": "19",
@@ -532,12 +532,12 @@
       "options": [
         {
           "key": "A",
-          "text": "Tashkilot ochilgani haqida OAVni xabardor qilish",
-          "correct": false
+          "text": "Rejadagi tadbir haqida OAVni xabardor qilish",
+          "correct": true
         },
         {
           "key": "B",
-          "text": "Yangi mahsulot haqida OAVni xabardor qilish",
+          "text": "Tashkilot ochilgani haqida OAVni xabardor qilish",
           "correct": false
         },
         {
@@ -547,12 +547,12 @@
         },
         {
           "key": "D",
-          "text": "Rejadagi tadbir haqida OAVni xabardor qilish",
-          "correct": true
+          "text": "Yangi mahsulot haqida OAVni xabardor qilish",
+          "correct": false
         }
       ],
-      "answerKey": "D",
-      "locale": "mixed"
+      "answerKey": "A",
+      "locale": "uz"
     },
     {
       "id": "20",
@@ -561,36 +561,36 @@
       "options": [
         {
           "key": "A",
-          "text": "Yolgʻon axborotni behosdan tarqatish",
-          "correct": false
-        },
-        {
-          "key": "B",
           "text": "Qonunning qonuniy ravishda korrupsiyaga yoki muayyan shaxslarning manfaatiga xizmat qilishiga olib kelish",
           "correct": true
         },
         {
+          "key": "B",
+          "text": "Yolg‘on axborotni behosdan tarqatish",
+          "correct": false
+        },
+        {
           "key": "C",
-          "text": "Ehtiyotsizlik oqibatida OAVni chalgʻitish",
+          "text": "Ehtiyotsizlik oqibatida OAVni chalg‘itish",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Toʻgʻri javob yoʻq",
+          "text": "To‘g‘ri javob yo‘q",
           "correct": false
         }
       ],
-      "answerKey": "B",
-      "locale": "mixed"
+      "answerKey": "A",
+      "locale": "uz"
     },
     {
       "id": "21",
       "order": 21,
-      "question": "Press-reliz tayyorlash jarayonida nimalarga eʼtibor berish kerak?",
+      "question": "Press-reliz tayyorlash jarayonida nimalarga e’tibor berish kerak?",
       "options": [
         {
           "key": "A",
-          "text": "Hammasi toʻgʻri",
+          "text": "Hammasi to‘g‘ri",
           "correct": true
         },
         {
@@ -605,12 +605,12 @@
         },
         {
           "key": "D",
-          "text": "WH Questions javob berishiga",
+          "text": "Olti boqiy savol(WH Questions) javob berishiga",
           "correct": false
         }
       ],
       "answerKey": "A",
-      "locale": "mixed"
+      "locale": "uz"
     },
     {
       "id": "22",
@@ -619,13 +619,13 @@
       "options": [
         {
           "key": "A",
-          "text": "Tashkilot rahbarining aholi vakillari bilan uchrashuvi",
-          "correct": false
+          "text": "Tashkilot rahbarining tor doiradagi OAV vakillari bilan uchrashuvi",
+          "correct": true
         },
         {
           "key": "B",
-          "text": "Tashkilot rahbarining tor doiradagi OAV vakillari bilan uchrashuvi",
-          "correct": true
+          "text": "Tashkilot rahbarining aholi vakillari bilan uchrashuvi",
+          "correct": false
         },
         {
           "key": "C",
@@ -634,12 +634,12 @@
         },
         {
           "key": "D",
-          "text": "Xorijiy hamkorlar bilan uchrashuvi",
+          "text": "Tashkilot rahbarining xorijiy hamkorlar bilan uchrashuvi",
           "correct": false
         }
       ],
-      "answerKey": "B",
-      "locale": "mixed"
+      "answerKey": "A",
+      "locale": "uz"
     },
     {
       "id": "23",
@@ -648,27 +648,27 @@
       "options": [
         {
           "key": "A",
-          "text": "Raqiblar fikrini shakllantirish",
-          "correct": false
+          "text": "Inqiroz sharoitida jamoatchilik fikrini shakllantirish va boshqarishga qaratilgan kommunikatsion usullar majmuasi",
+          "correct": true
         },
         {
           "key": "B",
-          "text": "Rahbar fikrini boshqarish",
+          "text": "Inqiroz sharoitida raqiblar fikrini shakllantirish va boshqarishga qaratilgan kommunikatsion usullar majmuasi",
           "correct": false
         },
         {
           "key": "C",
-          "text": "Jamoatchilik fikrini shakllantirish va boshqarish usullari majmuasi",
-          "correct": true
+          "text": "Inqiroz sharoitida tashkilot rahbari fikrini shakllantirish va boshqarishga qaratilgan kommunikatsion usullar majmuasi",
+          "correct": false
         },
         {
           "key": "D",
-          "text": "Ekspertlar fikrini boshqarish",
+          "text": "Inqiroz sharoitida ekspertlar fikrini shakllantirish va boshqarishga qaratilgan kommunikatsion usullar majmuasi",
           "correct": false
         }
       ],
-      "answerKey": "C",
-      "locale": "mixed"
+      "answerKey": "A",
+      "locale": "uz"
     },
     {
       "id": "24",
@@ -677,27 +677,27 @@
       "options": [
         {
           "key": "A",
-          "text": "Xabarlarni tekshirish",
-          "correct": false
+          "text": "Axborotning haqiqiyligini batafsil tekshirish",
+          "correct": true
         },
         {
           "key": "B",
-          "text": "Tekshirishsiz eʼlon qilish",
+          "text": "Axborot xizmati xabarlarini tekshirish",
           "correct": false
         },
         {
           "key": "C",
-          "text": "Tekshirilmagan faktlarni eʼlon qilmaslik",
+          "text": "Faktrlarni tekshirishsiz e’lon qilish",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Axborotning haqiqiyligini batafsil tekshirish",
-          "correct": true
+          "text": "Tekshirilmagan faktlarni e’lon qilmaslik",
+          "correct": false
         }
       ],
-      "answerKey": "D",
-      "locale": "mixed"
+      "answerKey": "A",
+      "locale": "uz"
     },
     {
       "id": "25",
@@ -706,27 +706,27 @@
       "options": [
         {
           "key": "A",
-          "text": "OAV vakilini roʻyxatga olish",
+          "text": "OAV vakilini ro‘yxatga olish",
           "correct": true
         },
         {
           "key": "B",
-          "text": "OAV vakilini chiqarish",
+          "text": "OAV vakilini ro‘yxatdan chiqarish",
           "correct": false
         },
         {
           "key": "C",
-          "text": "OAVni roʻyxatga olish",
+          "text": "OAVni ro‘yxatga olish",
           "correct": false
         },
         {
           "key": "D",
-          "text": "OAVni chiqarish",
+          "text": "OAV vakilini ro‘yxatdan chiqarish",
           "correct": false
         }
       ],
       "answerKey": "A",
-      "locale": "mixed"
+      "locale": "uz"
     },
     {
       "id": "26",
@@ -735,27 +735,27 @@
       "options": [
         {
           "key": "A",
-          "text": "Davriy",
-          "correct": false
-        },
-        {
-          "key": "B",
-          "text": "Hammasi toʻgʻri",
+          "text": "Hammasi to‘g‘ri",
           "correct": true
         },
         {
+          "key": "B",
+          "text": "davriy",
+          "correct": false
+        },
+        {
           "key": "C",
-          "text": "Maxsus (vaqtinchalik)",
+          "text": "Maxsus(vaqtinchalik)",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Doimiy",
+          "text": "doimiy",
           "correct": false
         }
       ],
-      "answerKey": "B",
-      "locale": "mixed"
+      "answerKey": "A",
+      "locale": "uz"
     },
     {
       "id": "27",
@@ -764,27 +764,27 @@
       "options": [
         {
           "key": "A",
-          "text": "Ommaviy tashrif",
-          "correct": false
+          "text": "Chaqiruv. Biron mavzudagi video, foto va yoki boshqa axborotning zanjir shaklida ommalashishi",
+          "correct": true
         },
         {
           "key": "B",
-          "text": "Jurnalistlarning umumiy harakati",
+          "text": "Bironta tashkilotga ommaviy tashrif",
           "correct": false
         },
         {
           "key": "C",
-          "text": "Chaqiruv, ma’lum mavzudagi video yoki axborotning zanjir shaklida ommalashuvi",
-          "correct": true
+          "text": "Jurnalistlarning umumiy harakatlanishi",
+          "correct": false
         },
         {
           "key": "D",
-          "text": "Jurnalistlarning passivligi",
+          "text": "Jurnalistlarning yalpi harakatsizligi",
           "correct": false
         }
       ],
-      "answerKey": "C",
-      "locale": "mixed"
+      "answerKey": "A",
+      "locale": "uz"
     },
     {
       "id": "28",
@@ -793,27 +793,27 @@
       "options": [
         {
           "key": "A",
+          "text": "Reklama yoki marketingni boshqa turlarini maqsad qilib yozilgan matn",
+          "correct": true
+        },
+        {
+          "key": "B",
           "text": "Media kartadan nusxa olish",
           "correct": false
         },
         {
-          "key": "B",
-          "text": "Reklama matnidan nusxa olish",
-          "correct": false
-        },
-        {
           "key": "C",
-          "text": "Press-relizdan ko‘chirish",
+          "text": "Reklama matnidan nusxa olish va ko‘paytirish",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Reklama yoki marketing maqsadida yozilgan matn",
-          "correct": true
+          "text": "Press-relizdan nusxa ko‘chirish",
+          "correct": false
         }
       ],
-      "answerKey": "D",
-      "locale": "mixed"
+      "answerKey": "A",
+      "locale": "uz"
     },
     {
       "id": "29",
@@ -842,7 +842,7 @@
         }
       ],
       "answerKey": "A",
-      "locale": "mixed"
+      "locale": "uz"
     },
     {
       "id": "30",
@@ -851,27 +851,27 @@
       "options": [
         {
           "key": "A",
-          "text": "Favqulotta vaziyat yuzasidan tadbir",
-          "correct": false
-        },
-        {
-          "key": "B",
-          "text": "Muayyan xizmat yoki tovar haqida OAV vakillarini xabardor qilish uchun sayohat shaklidagi tadbir",
+          "text": "Muayyan xizmat yoki tovar to‘g‘risida OAV vakillarini bir vaqtda xabardor qilish uchun tashkil etiladigan sayohat shaklidagi tadbir.",
           "correct": true
         },
         {
+          "key": "B",
+          "text": "Favqulotta vaziyat yuzasidan tashkil etiladigan tadbir",
+          "correct": false
+        },
+        {
           "key": "C",
-          "text": "Jurnalistlarni taklif qilish",
+          "text": "Tashkilot imidjini oshirish, xizmatlar ko‘lamini kengaytirish, mahsulotlar sifatini yaxshilash bo‘yicha jurnalistlardan taklif olish",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Hammasi toʻgʻri",
+          "text": "Hammasi to‘g‘ri",
           "correct": false
         }
       ],
-      "answerKey": "B",
-      "locale": "mixed"
+      "answerKey": "A",
+      "locale": "uz"
     },
     {
       "id": "31",
@@ -880,27 +880,27 @@
       "options": [
         {
           "key": "A",
-          "text": "Tashkilot daʼvosi",
-          "correct": false
+          "text": "OAVda elon qilingan material to‘g‘risidagi takroriy chiqish",
+          "correct": true
         },
         {
           "key": "B",
-          "text": "OAV daʼvosi",
+          "text": "Tashkilot da’vosi",
           "correct": false
         },
         {
           "key": "C",
-          "text": "OAVda eʼlon qilingan material toʻgʻrisidagi takroriy chiqish",
-          "correct": true
+          "text": "OAVda qo‘llanuvchi kunlik xabarchalar to‘plami",
+          "correct": false
         },
         {
           "key": "D",
-          "text": "Kunlik xabarchalar toʻplami",
+          "text": "OAV da’vosi",
           "correct": false
         }
       ],
-      "answerKey": "C",
-      "locale": "mixed"
+      "answerKey": "A",
+      "locale": "uz"
     },
     {
       "id": "32",
@@ -909,36 +909,36 @@
       "options": [
         {
           "key": "A",
-          "text": "Ijtimoiy omillar rivojining tendensiyalarini aniqlashda qoʻllaniladigan hujjatlarni tahlil etish usuli",
+          "text": "Ijtimoiy omillar rivojining tendensiyalarini aniqlashda qo‘llanadigan hujjatlarni sifatiy tahlil etish usuli",
           "correct": true
         },
         {
           "key": "B",
-          "text": "Tashkilot imidjini oshirish vositasi",
+          "text": "Tashklotning imidjini oshirish vositasi",
           "correct": false
         },
         {
           "key": "C",
-          "text": "Natijalarni qiyosiy oʻrganish",
+          "text": "Tahlillar natijalarini qiyosiy o‘rganish",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Qora piarga tayyorgarlik",
+          "text": "Qora piarga tayyorgarlik ko‘rish jarayoni",
           "correct": false
         }
       ],
       "answerKey": "A",
-      "locale": "mixed"
+      "locale": "uz"
     },
     {
       "id": "33",
       "order": 33,
-      "question": "Axborotdan foydalanuvchining soʻrovi koʻpi bilan nechchi kunda koʻrib chiqiladi?",
+      "question": "Axborotdan foydalanuvchining so‘rovi ro‘yxatdan o‘tkazilgan kundan e’tiboran ko‘pi bilan o‘n besh kunlik",
       "options": [
         {
           "key": "A",
-          "text": "15 kun",
+          "text": "To‘g‘ri",
           "correct": true
         },
         {
@@ -948,61 +948,61 @@
         },
         {
           "key": "C",
-          "text": "5 kun",
+          "text": "Noto‘g‘ri",
           "correct": false
         },
         {
           "key": "D",
-          "text": "3 ish kuni",
+          "text": "3 ish kuni kun",
           "correct": false
         }
       ],
       "answerKey": "A",
-      "locale": "mixed"
+      "locale": "uz"
     },
     {
       "id": "34",
       "order": 34,
-      "question": "OAV soʻrovi koʻpi bilan nechchi kunda koʻrib chiqiladi?",
+      "question": "Ommaviy axborot vositasining davlat hokimiyati va boshqaruvi organlarining faoliyati to‘g‘risida axborot olishga doir, shuningdek mansabdor shaxslarning intervyusini tashkil etish to‘g‘risidagi so‘rovi ko‘pi bilan yetti kunlik muddatda ko‘rib chiqiladi.",
       "options": [
         {
           "key": "A",
-          "text": "7 kun",
-          "correct": false
-        },
-        {
-          "key": "B",
-          "text": "3 ish kuni",
+          "text": "To‘g‘ri",
           "correct": true
         },
         {
-          "key": "C",
+          "key": "B",
           "text": "10 kun",
           "correct": false
         },
         {
+          "key": "C",
+          "text": "Noto‘g‘ri",
+          "correct": false
+        },
+        {
           "key": "D",
-          "text": "1 hafta",
+          "text": "4 ish kuni kun",
           "correct": false
         }
       ],
-      "answerKey": "B",
-      "locale": "mixed"
+      "answerKey": "A",
+      "locale": "uz"
     },
     {
       "id": "35",
       "order": 35,
-      "question": "“Davlat hokimiyati va boshqaruvi organlari faoliyatining ochiqligi toʻgʻrisida”gi Qonunda ochiqlikni taʼminlashning nechta usuli belgilangan?",
+      "question": "O‘zbekiston Respublikasining “Davlat hokimiyati va boshqaruvi organlari faoliyatining ochiqligi to‘g‘risida”gi Qonunida Davlat hokimiyati va boshqaruvi organlari faoliyatining ochiqligini ta’minlashning nechta usullari aniq belgilab qo‘yilgan?",
       "options": [
         {
           "key": "A",
-          "text": "7 ta",
-          "correct": false
+          "text": "6 ta",
+          "correct": true
         },
         {
           "key": "B",
-          "text": "6 ta",
-          "correct": true
+          "text": "7 ta",
+          "correct": false
         },
         {
           "key": "C",
@@ -1015,42 +1015,42 @@
           "correct": false
         }
       ],
-      "answerKey": "B",
-      "locale": "mixed"
+      "answerKey": "A",
+      "locale": "uz"
     },
     {
       "id": "36",
       "order": 36,
-      "question": "Davlat hokimiyati va boshqaruvi organlarining faoliyati toʻgʻrisidagi axborot manbalari?",
+      "question": "O‘zbekiston Respublikasining “Davlat hokimiyati va boshqaruvi organlari faoliyatining ochiqligi to‘g‘risida”gi Qonuniga ko‘ra, Davlat hokimiyati va boshqaruvi organlarining faoliyati to‘g‘risidagi axborot manbalari?",
       "options": [
         {
           "key": "A",
-          "text": "Rasmiy veb-sayt materiallari",
-          "correct": false
+          "text": "Barchasi to‘g‘ri",
+          "correct": true
         },
         {
           "key": "B",
-          "text": "Axborot xizmati xabarlari",
+          "text": "Davlat hokimiyati va boshqaruvi organlari rasmiy veb-saytlarining materiallari",
           "correct": false
         },
         {
           "key": "C",
-          "text": "Rasmiy nashrlar",
+          "text": "Davlat hokimiyati va boshqaruvi organlari axborot xizmatlarining xabarlari",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Barchasi toʻgʻri",
-          "correct": true
+          "text": "Davlat hokimiyati va boshqaruvi organlarining rasmiy nashrlari",
+          "correct": false
         }
       ],
-      "answerKey": "D",
-      "locale": "mixed"
+      "answerKey": "A",
+      "locale": "uz"
     },
     {
       "id": "37",
       "order": 37,
-      "question": "Prezidentning “OAV mustaqilligini taʼminlash ...” haqidagi qarori qabul qilingan sana?",
+      "question": "O‘zbekiston Respublikasi Prezidentining “Ommaviy axborot vositalari mustaqilligini ta’minlash hamda davlat organlari va tashkilotlari axborot xizmatlari faoliyatini rivojlantirish bo‘yicha qo‘shimcha chora-tadbirlar to‘g‘risida”gi Qarori qabul qilingan sana?",
       "options": [
         {
           "key": "A",
@@ -1059,66 +1059,66 @@
         },
         {
           "key": "B",
-          "text": "2020-yil, 5-iyul",
+          "text": "2020-yil, 3-may",
           "correct": false
         },
         {
           "key": "C",
-          "text": "2018-yil, 1-mart",
+          "text": "2018-yil, 27-iyun",
           "correct": false
         },
         {
           "key": "D",
-          "text": "2017-yil, 15-may",
+          "text": "2021-yil, 27-iyun",
           "correct": false
         }
       ],
       "answerKey": "A",
-      "locale": "mixed"
+      "locale": "uz"
     },
     {
       "id": "38",
       "order": 38,
-      "question": "Axborot xizmati xodimlarining soni kim tomonidan belgilanadi?",
+      "question": "Davlat organlari va tashkilotlarining markaziy apparatlaridagi axborot xizmatlari xodimlarining soni tegishli idora faoliyatining o‘ziga xosligidan kelib chiqqan holda...",
       "options": [
         {
           "key": "A",
+          "text": "Uning rahbari birinchi o‘rinbosari tomonidan belgilanadi",
+          "correct": true
+        },
+        {
+          "key": "B",
           "text": "Xodimlari tomonidan belgilanadi",
           "correct": false
         },
         {
-          "key": "B",
-          "text": "Uning rahbari birinchi oʻrinbosari tomonidan belgilanadi",
-          "correct": true
-        },
-        {
           "key": "C",
-          "text": "Kasaba uyushmasi tomonidan belgilanadi",
+          "text": "Uning kasaba uyushmasi tomonidan belgilanadi",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Rahbarning oʻzi tomonidan belgilanadi",
+          "text": "Uning rahbari birinchi o‘rinbosari tomonidan belgilanadi",
           "correct": false
         }
       ],
-      "answerKey": "B",
-      "locale": "mixed"
+      "answerKey": "A",
+      "locale": "uz"
     },
     {
       "id": "39",
       "order": 39,
-      "question": "Axborot xizmatlariga ularning xizmat majburiyatiga kirmaydigan qoʻshimcha majburiyatlarni bajarish mumkinmi?",
+      "question": "Davlat organlari va tashkilotlari axborot xizmatlariga ularning xizmat majburiyatiga kirmaydigan qo‘shimcha majburiyatlarni bajarishi mumkinmi?",
       "options": [
         {
           "key": "A",
-          "text": "Mumkin",
-          "correct": false
+          "text": "Mumkin emas",
+          "correct": true
         },
         {
           "key": "B",
-          "text": "Mumkin emas",
-          "correct": true
+          "text": "Mumkin",
+          "correct": false
         },
         {
           "key": "C",
@@ -1127,90 +1127,90 @@
         },
         {
           "key": "D",
-          "text": "Zaruratga koʻra",
+          "text": "Zaruratga ko‘ra",
           "correct": false
         }
       ],
-      "answerKey": "B",
-      "locale": "mixed"
+      "answerKey": "A",
+      "locale": "uz"
     },
     {
       "id": "40",
       "order": 40,
-      "question": "PRning axloqiy meʼyorlari qaysi hujjatlarda aks etgan?",
+      "question": "PRning axloqiy me’yorlari qaysi hujjatlarda aks ettirilgan?",
       "options": [
         {
           "key": "A",
-          "text": "IPRAning 1961-yilda qabul qilingan “Kasbiy faoliyat kodeksi”",
-          "correct": false
-        },
-        {
-          "key": "B",
-          "text": "1965-yilda qabul qilingan “Afina Kodeksi”",
-          "correct": false
-        },
-        {
-          "key": "C",
           "text": "A va B javoblar",
           "correct": true
         },
         {
+          "key": "B",
+          "text": "Pablik rileyshnz xalqaro assotsiatsiyasi (IPRA)ning 1961-yilda qabul qilingan “Kasbiy faoliyat kodeksi”",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "1965-yilda qabul qilingan va 1968-yilda ba’zi o‘zgartishlar kiritilgan “Afina Kodeksi”",
+          "correct": false
+        },
+        {
           "key": "D",
-          "text": "1948-yil “Inson huquqlari umumjahon deklaratsiyasi”",
+          "text": "1948-yilda qabul qilingan “Inson huquqlari umumjahon deklaratsiyasi”",
           "correct": false
         }
       ],
-      "answerKey": "C",
-      "locale": "mixed"
+      "answerKey": "A",
+      "locale": "uz"
     },
     {
       "id": "41",
       "order": 41,
-      "question": "Tashkilot ichida Axborot xizmati faoliyatining asosi qaysi qatorda toʻgʻri koʻrsatilgan?",
+      "question": "Tashkilot ichida Axborot xizmati faoliyatining asosi qaysi qatorda to‘g‘ri ko‘rsatilgan?",
       "options": [
         {
           "key": "A",
+          "text": "Axborot xizmati to‘g‘risidagi Nizom",
+          "correct": true
+        },
+        {
+          "key": "B",
           "text": "Axborot xizmati faoliyatiga doir asosiy Qoidalar",
           "correct": false
         },
         {
-          "key": "B",
+          "key": "C",
           "text": "Axborot xizmati haqidagi rasmiy Tartib",
           "correct": false
         },
         {
-          "key": "C",
-          "text": "Axborot xizmati toʻgʻrisidagi Nizom",
-          "correct": true
-        },
-        {
           "key": "D",
-          "text": "Lavozim majburiyatnomasi",
+          "text": "Axborot xizmati lavozim majburiyatnomasi",
           "correct": false
         }
       ],
-      "answerKey": "C",
-      "locale": "mixed"
+      "answerKey": "A",
+      "locale": "uz"
     },
     {
       "id": "42",
       "order": 42,
-      "question": "“Dunyoni jamoatchilik fikri boshqaradi” degan olim?",
+      "question": "“Dunyoni jamoatchilik fikri boshqaradi” deb aytgan olim?",
       "options": [
         {
           "key": "A",
+          "text": "Ortega Gasset",
+          "correct": true
+        },
+        {
+          "key": "B",
           "text": "Dmitriy Olshanskiy",
           "correct": false
         },
         {
-          "key": "B",
+          "key": "C",
           "text": "Valentin Korolko",
           "correct": false
-        },
-        {
-          "key": "C",
-          "text": "Ortega Gasset",
-          "correct": true
         },
         {
           "key": "D",
@@ -1218,23 +1218,23 @@
           "correct": false
         }
       ],
-      "answerKey": "C",
-      "locale": "mixed"
+      "answerKey": "A",
+      "locale": "uz"
     },
     {
       "id": "43",
       "order": 43,
-      "question": "“Jamiyat manfaatlari yoʻlidagi harakatdir” degan olim?",
+      "question": "“Jamiyat manfaatlari yo‘lidagi harakatdir” deb aytgan olim?",
       "options": [
         {
           "key": "A",
-          "text": "Dmitriy Olshanskiy",
-          "correct": false
+          "text": "Edvard Bernays",
+          "correct": true
         },
         {
           "key": "B",
-          "text": "Edvard Bernays",
-          "correct": true
+          "text": "Dmitriy Olshanskiy",
+          "correct": false
         },
         {
           "key": "C",
@@ -1247,52 +1247,52 @@
           "correct": false
         }
       ],
-      "answerKey": "B",
-      "locale": "mixed"
+      "answerKey": "A",
+      "locale": "uz"
     },
     {
       "id": "44",
       "order": 44,
-      "question": "PRdagi etika boshqa sohalardagi etikadan farqlanadimi?",
+      "question": "PRdagi etika boshqa sohadagi etikadan ma’lum darajada farqlanadi.",
       "options": [
         {
           "key": "A",
-          "text": "Notoʻgʻri",
-          "correct": false
+          "text": "To‘g‘ri",
+          "correct": true
         },
         {
           "key": "B",
-          "text": "Ular umumiy kasb etikasi",
+          "text": "Noto‘g‘ri",
           "correct": false
         },
         {
           "key": "C",
-          "text": "Farqlanmaydi",
+          "text": "Ular umumiy kasb etikasi",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Toʻgʻri",
-          "correct": true
+          "text": "farqlanmaydi",
+          "correct": false
         }
       ],
-      "answerKey": "D",
-      "locale": "mixed"
+      "answerKey": "A",
+      "locale": "uz"
     },
     {
       "id": "45",
       "order": 45,
-      "question": "1978-yilda qabul qilinib, 1989-yilda oʻzgartirilgan Kodeks?",
+      "question": "1978-yilda qabul qilinib, 1989-yil 13-mayda o‘zgartirishlar kiritilgan Kodeks?",
       "options": [
         {
           "key": "A",
-          "text": "“Kasbiy faoliyat kodeksi”",
-          "correct": false
+          "text": "“PRda odob-axloq qoidalari Yevropa Kodeksi” (Lissabon Kodeksi)",
+          "correct": true
         },
         {
           "key": "B",
-          "text": "“PRda odob-axloq qoidalari Yevropa Kodeksi” (Lissabon Kodeksi)",
-          "correct": true
+          "text": "“Kasbiy faoliyat kodeksi”",
+          "correct": false
         },
         {
           "key": "C",
@@ -1301,32 +1301,32 @@
         },
         {
           "key": "D",
-          "text": "“Toʻgʻrisoʻzlik va aniqlik Kodeksi”",
+          "text": "“To‘g‘riso‘zlik va aniqlik Kodeksi»",
           "correct": false
         }
       ],
-      "answerKey": "B",
-      "locale": "mixed"
+      "answerKey": "A",
+      "locale": "uz"
     },
     {
       "id": "46",
       "order": 46,
-      "question": "Axborot xizmatida eng kam shtat birligi nechta boʻlishi lozim?",
+      "question": "Umumqabul qilingan qoidalar va nazaryotchi olimlar tasdig‘iga ko‘ra, Axborot xizmatida eng kam shtat birligi nechta bo‘lishi lozim?",
       "options": [
         {
           "key": "A",
+          "text": "3 ta",
+          "correct": true
+        },
+        {
+          "key": "B",
           "text": "4 ta",
           "correct": false
         },
         {
-          "key": "B",
+          "key": "C",
           "text": "5 ta",
           "correct": false
-        },
-        {
-          "key": "C",
-          "text": "3 ta",
-          "correct": true
         },
         {
           "key": "D",
@@ -1334,57 +1334,57 @@
           "correct": false
         }
       ],
-      "answerKey": "C",
-      "locale": "mixed"
+      "answerKey": "A",
+      "locale": "uz"
     },
     {
       "id": "47",
       "order": 47,
-      "question": "“PR xizmati” va “Axborot xizmati” atamalari sinonimmi?",
+      "question": "Amaliyotda “PR xizmati” va “Axborot xizmati” atamalarini sinonim sifatida ham qo‘llashimiz mumkin.",
       "options": [
         {
           "key": "A",
-          "text": "Notoʻgʻri",
-          "correct": false
-        },
-        {
-          "key": "B",
-          "text": "Toʻgʻri",
+          "text": "To‘g‘ri",
           "correct": true
         },
         {
+          "key": "B",
+          "text": "Noto‘g‘ri",
+          "correct": false
+        },
+        {
           "key": "C",
-          "text": "Ular alohida sohalar",
+          "text": "Ular umuman alohida sohalar",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Toʻgʻri javob yoʻq",
+          "text": "To‘g‘ri javob yo‘q",
           "correct": false
         }
       ],
-      "answerKey": "B",
-      "locale": "mixed"
+      "answerKey": "A",
+      "locale": "uz"
     },
     {
       "id": "48",
       "order": 48,
-      "question": "Axborot xizmati jamoatchilikka qanday maʼlumotlar tarqatishi zarur?",
+      "question": "Axborot xizmati jamoatchilikka qanday ma’lumotlar tarqatishi zarur",
       "options": [
         {
           "key": "A",
+          "text": "OAV bilan hamkorlik",
+          "correct": true
+        },
+        {
+          "key": "B",
           "text": "Rahbariyat bilan hamkorlik",
           "correct": false
         },
         {
-          "key": "B",
+          "key": "C",
           "text": "Jamoatchilik bilan hamkorlik",
           "correct": false
-        },
-        {
-          "key": "C",
-          "text": "OAV bilan hamkorlik",
-          "correct": true
         },
         {
           "key": "D",
@@ -1392,71 +1392,71 @@
           "correct": false
         }
       ],
-      "answerKey": "C",
-      "locale": "mixed"
+      "answerKey": "A",
+      "locale": "uz"
     },
     {
       "id": "49",
       "order": 49,
-      "question": "Axborot xizmati xodimi muloqotni qanday tashkil etishi kerak?",
+      "question": "Axborot xizmati xodimi muloqotni...",
       "options": [
         {
           "key": "A",
-          "text": "Bir tomonlama tashkil etishi kerak",
-          "correct": false
-        },
-        {
-          "key": "B",
           "text": "Ikki tomonlama tashkil etishi kerak",
           "correct": true
         },
         {
+          "key": "B",
+          "text": "Bir tomonlama tashkil etishi kerak",
+          "correct": false
+        },
+        {
           "key": "C",
-          "text": "Koʻp tomonlama tashkil etishi kerak",
+          "text": "Ko‘p tomonlama tashkil etishi kerak",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Barchasi toʻgʻri",
+          "text": "Barchasi to‘g‘ri",
           "correct": false
         }
       ],
-      "answerKey": "B",
-      "locale": "mixed"
+      "answerKey": "A",
+      "locale": "uz"
     },
     {
       "id": "50",
       "order": 50,
-      "question": "Axborot xizmati xodimi faoliyati uchun samarali, ammo sohaga bevosita daxldor boʻlmagan fanlar?",
+      "question": "Axborot xizmati xodimi faoliyati uchun samarali, ammo sohaga bevosita daxldor bo‘lmagan fanlar?",
       "options": [
         {
           "key": "A",
+          "text": "Barchasi to‘g‘ri",
+          "correct": true
+        },
+        {
+          "key": "B",
           "text": "Sotsiologiya, ijtimoiy psixologiya",
           "correct": false
         },
         {
-          "key": "B",
-          "text": "Tarix, falsafa, etika, estetika",
-          "correct": false
-        },
-        {
           "key": "C",
-          "text": "Siyosatshunoslik, huquq, pedagogika",
+          "text": "Tarix, Falsafa, etika, estetika",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Barchasi toʻgʻri",
-          "correct": true
+          "text": "Siyosatshunoslik, huquq, pedagogika",
+          "correct": false
         }
       ],
-      "answerKey": "D",
-      "locale": "mixed"
+      "answerKey": "A",
+      "locale": "uz"
     },
     {
       "id": "51",
       "order": 51,
-      "question": "Axborot xizmati rahbari – ... hisoblanadi.",
+      "question": "Axborot xizmati rahbari - ... hisoblanadi.",
       "options": [
         {
           "key": "A",
@@ -1480,7 +1480,7 @@
         }
       ],
       "answerKey": "A",
-      "locale": "mixed"
+      "locale": "uz"
     },
     {
       "id": "52",
@@ -1489,13 +1489,13 @@
       "options": [
         {
           "key": "A",
-          "text": "Toʻgʻri",
-          "correct": false
+          "text": "To‘g‘ri",
+          "correct": true
         },
         {
           "key": "B",
-          "text": "Notoʻgʻri",
-          "correct": true
+          "text": "Noto‘g‘ri",
+          "correct": false
         },
         {
           "key": "C",
@@ -1504,22 +1504,22 @@
         },
         {
           "key": "D",
-          "text": "Toʻgʻri javob yoʻq",
+          "text": "To‘g‘ri javob yo‘q",
           "correct": false
         }
       ],
-      "answerKey": "B",
-      "locale": "mixed"
+      "answerKey": "A",
+      "locale": "uz"
     },
     {
       "id": "53",
       "order": 53,
-      "question": "Har kungi gazetalarni, telekoʻrsatuvlarni va internetni eʼtibor bilan kuzatib, radioeshittirishlarni tinglab borish kimning bevosita vazifasi sanaladi?",
+      "question": "Har kungi gazetalarni, teleko‘rsatuvlarni va internetni e’tibor bilan kuzatib, radioeshittirishlarni tinglab borish kimning bevosita vazifasi sanaladi?",
       "options": [
         {
           "key": "A",
-          "text": "Hammasi toʻgʻri",
-          "correct": false
+          "text": "Hammasi to‘g‘ri",
+          "correct": true
         },
         {
           "key": "B",
@@ -1529,7 +1529,7 @@
         {
           "key": "C",
           "text": "Axborot xizmati xodimlari",
-          "correct": true
+          "correct": false
         },
         {
           "key": "D",
@@ -1537,13 +1537,13 @@
           "correct": false
         }
       ],
-      "answerKey": "C",
-      "locale": "mixed"
+      "answerKey": "A",
+      "locale": "uz"
     },
     {
       "id": "54",
       "order": 54,
-      "question": "Matbuot xizmatining OAVni kundalik kuzatib borish bilan bogʻliq faoliyati?",
+      "question": "Matbuot xizmatining OAVni kundalik kuzatib borish bilan bog‘liq faoliyati?",
       "options": [
         {
           "key": "A",
@@ -1566,23 +1566,23 @@
           "correct": false
         }
       ],
-      "answerKey": "D",
-      "locale": "mixed"
+      "answerKey": "A",
+      "locale": "uz"
     },
     {
       "id": "55",
       "order": 55,
-      "question": "Materialdan masala ijobiy hal boʻlgani toʻgʻrisida soʻzlab berish uchun foydalaniladigan vosita nima?",
+      "question": "Materialdan masala ijobiy hal bo‘lgani to‘g‘risida so‘zlab berish uchun foydalaniladigan vosita nima?",
       "options": [
         {
           "key": "A",
           "text": "Keys-tarix",
-          "correct": false
+          "correct": true
         },
         {
           "key": "B",
           "text": "Press-anons",
-          "correct": true
+          "correct": false
         },
         {
           "key": "C",
@@ -1595,28 +1595,28 @@
           "correct": false
         }
       ],
-      "answerKey": "B",
-      "locale": "mixed"
+      "answerKey": "A",
+      "locale": "uz"
     },
     {
       "id": "56",
       "order": 56,
-      "question": "Mansabdor shaxs faoliyatining turlari va sohalari, yoki hodisa sabablari aks ettiriladigan vosita?",
+      "question": "mansabdor shaxs faoliyatining turlari va sohalari, yoki hodisa sabablari aks ettiriladigan vosita?",
       "options": [
         {
           "key": "A",
           "text": "Fakt-list",
-          "correct": false
+          "correct": true
         },
         {
           "key": "B",
-          "text": "Soʻrov",
+          "text": "So‘rov",
           "correct": false
         },
         {
           "key": "C",
           "text": "Raddiya",
-          "correct": true
+          "correct": false
         },
         {
           "key": "D",
@@ -1624,18 +1624,18 @@
           "correct": false
         }
       ],
-      "answerKey": "C",
-      "locale": "mixed"
+      "answerKey": "A",
+      "locale": "uz"
     },
     {
       "id": "57",
       "order": 57,
-      "question": "Muayyan masala yoki koʻtarilayotgan muammo boʻyicha tashkilotning nuqtayi nazari va rejalarini bayon qilish shakli qaysi qatorda toʻgʻri berilgan?",
+      "question": "Muayyan masala yoki ko‘tarilayotgan muammo bo‘yicha tashkilotning nuqtayi nazari va rejalarini bayon qilish shakli qaysi qatorda to‘g‘ri berilgan?",
       "options": [
         {
           "key": "A",
           "text": "Bayonot",
-          "correct": false
+          "correct": true
         },
         {
           "key": "B",
@@ -1650,16 +1650,16 @@
         {
           "key": "D",
           "text": "Press-kit",
-          "correct": true
+          "correct": false
         }
       ],
-      "answerKey": "D",
-      "locale": "mixed"
+      "answerKey": "A",
+      "locale": "uz"
     },
     {
       "id": "58",
       "order": 58,
-      "question": "Tashkilot yoki mansabdor shaxsning nuqtayi nazari notoʻgʻri talqin qilingan nashrdan soʻng koʻriladigan chora nima?",
+      "question": "Tashkilot yoki mansabdor shaxsning nuqtayi nazari noto‘g‘ri talqin qilingan nashrdan so‘ng ko‘riladigan chora nima?",
       "options": [
         {
           "key": "A",
@@ -1683,7 +1683,7 @@
         }
       ],
       "answerKey": "A",
-      "locale": "mixed"
+      "locale": "uz"
     },
     {
       "id": "59",
@@ -1692,13 +1692,13 @@
       "options": [
         {
           "key": "A",
-          "text": "Soʻrovnoma",
-          "correct": false
+          "text": "So‘rovnoma",
+          "correct": true
         },
         {
           "key": "B",
           "text": "Tahlilnoma",
-          "correct": true
+          "correct": false
         },
         {
           "key": "C",
@@ -1711,18 +1711,18 @@
           "correct": false
         }
       ],
-      "answerKey": "B",
-      "locale": "mixed"
+      "answerKey": "A",
+      "locale": "uz"
     },
     {
       "id": "60",
       "order": 60,
-      "question": "Axborot tizimi tarkibidagi elektron shakldagi axborot, maʼlumotlar banki, maʼlumotlar bazasi nima?",
+      "question": "Axborot tizimi tarkibidagi elektron shakldagi axborot, ma’lumotlar banki, ma’lumotlar bazasi nima?",
       "options": [
         {
           "key": "A",
           "text": "Axborot resursi",
-          "correct": false
+          "correct": true
         },
         {
           "key": "B",
@@ -1737,26 +1737,26 @@
         {
           "key": "D",
           "text": "Axborot vositasi",
-          "correct": true
+          "correct": false
         }
       ],
-      "answerKey": "D",
-      "locale": "mixed"
+      "answerKey": "A",
+      "locale": "uz"
     },
     {
       "id": "61",
       "order": 61,
-      "question": "Axborotni toʻplash, saqlash, izlash, unga ishlov berish va uni tarqatish uchun foydalaniladigan jami uslublar, qurilmalar, usullar va jarayonlar bu ...",
+      "question": "Axborotni to‘plash, saqlash, izlash, unga ishlov berish va uni tarqatish uchun foydalaniladigan jami uslublar, qurilmalar, usullar va jarayonlar bu ...",
       "options": [
         {
           "key": "A",
           "text": "Axborot texnologiyasi",
-          "correct": false
+          "correct": true
         },
         {
           "key": "B",
           "text": "Axborot tizimi",
-          "correct": true
+          "correct": false
         },
         {
           "key": "C",
@@ -1769,18 +1769,18 @@
           "correct": false
         }
       ],
-      "answerKey": "B",
-      "locale": "mixed"
+      "answerKey": "A",
+      "locale": "uz"
     },
     {
       "id": "62",
       "order": 62,
-      "question": "Axborotni toʻplash, saqlash, izlash, unga ishlov berish hamda undan foydalanish imkonini beradigan, tashkiliy jihatdan tartibga solingan jami axborot resurslari, axborot texnologiyalari va aloqa vositalari bu ...",
+      "question": "Axborotni to‘plash, saqlash, izlash, unga ishlov berish hamda undan foydalanish imkonini beradigan, tashkiliy jihatdan tartibga solingan jami axborot resurslari, axborot texnologiyalari va aloqa vositalari bu ...",
       "options": [
         {
           "key": "A",
           "text": "Axborot tizimi",
-          "correct": false
+          "correct": true
         },
         {
           "key": "B",
@@ -1790,7 +1790,7 @@
         {
           "key": "C",
           "text": "Axborot siyosati",
-          "correct": true
+          "correct": false
         },
         {
           "key": "D",
@@ -1798,18 +1798,18 @@
           "correct": false
         }
       ],
-      "answerKey": "C",
-      "locale": "mixed"
+      "answerKey": "A",
+      "locale": "uz"
     },
     {
       "id": "63",
       "order": 63,
-      "question": "Internet jahon axborot tarmogʻidagi oʻz veb-saytiga va (yoki) veb-sayt sahifasiga hamma erkin foydalanishi mumkin boʻlgan, ijtimoiy-siyosiy, ijtimoiy-iqtisodiy va boshqa xususiyatga ega axborotni joylashtiruvchi, shu jumladan foydalanuvchilar tomonidan ushbu axborotni muhokama qilish uchun joylashtiruvchi jismoniy shaxs bu...",
+      "question": "Internet jahon axborot tarmog‘idagi o‘z veb-saytiga va (yoki) veb-sayt sahifasiga hamma erkin foydalanishi mumkin bo‘lgan, ijtimoiy-siyosiy, ijtimoiy-iqtisodiy va boshqa xususiyatga ega axborotni joylashtiruvchi, shu jumladan axborotdan foydalanuvchilar tomonidan ushbu axborotni muhokama qilish uchun joylashtiruvchi jismoniy shaxs bu...",
       "options": [
         {
           "key": "A",
           "text": "Bloger",
-          "correct": false
+          "correct": true
         },
         {
           "key": "B",
@@ -1824,11 +1824,11 @@
         {
           "key": "D",
           "text": "Matbuot kotibi",
-          "correct": true
+          "correct": false
         }
       ],
-      "answerKey": "D",
-      "locale": "mixed"
+      "answerKey": "A",
+      "locale": "uz"
     },
     {
       "id": "64",
@@ -1838,12 +1838,12 @@
         {
           "key": "A",
           "text": "Media reja tayyorlash",
-          "correct": false
+          "correct": true
         },
         {
           "key": "B",
           "text": "Media kart tayyorlash",
-          "correct": true
+          "correct": false
         },
         {
           "key": "C",
@@ -1856,18 +1856,18 @@
           "correct": false
         }
       ],
-      "answerKey": "B",
-      "locale": "mixed"
+      "answerKey": "A",
+      "locale": "uz"
     },
     {
       "id": "65",
       "order": 65,
-      "question": "Press-tur dasturini qancha vaqtga moʻljallash mumkin?",
+      "question": "Press-tur dasturini qancha vaqtga mo‘ljallash mumkin?",
       "options": [
         {
           "key": "A",
           "text": "Bir soatdan bir-necha kungacha",
-          "correct": false
+          "correct": true
         },
         {
           "key": "B",
@@ -1877,7 +1877,7 @@
         {
           "key": "C",
           "text": "Bir haftadan bir oygacha",
-          "correct": true
+          "correct": false
         },
         {
           "key": "D",
@@ -1885,66 +1885,66 @@
           "correct": false
         }
       ],
-      "answerKey": "C",
-      "locale": "mixed"
+      "answerKey": "A",
+      "locale": "uz"
     },
     {
       "id": "66",
       "order": 66,
-      "question": "Verbal taʼsir nima?",
+      "question": "Verbal ta’sir nima?",
       "options": [
         {
           "key": "A",
-          "text": "Nutq orqali koʻrsatiladigan taʼsir",
-          "correct": false
+          "text": "Nutq orqali ko‘rsatailadigan ta’sir",
+          "correct": true
         },
         {
           "key": "B",
-          "text": "Axborot orqali koʻrsatiladigan taʼsir",
+          "text": "Axborot orqali ko‘rsatailadigan ta’sir",
           "correct": false
         },
         {
           "key": "C",
-          "text": "Video orqali koʻrsatiladigan taʼsir",
+          "text": "Video orqali ko‘rsatailadigan ta’sir",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Audio orqali koʻrsatiladigan taʼsir",
-          "correct": true
+          "text": "Audio orqali ko‘rsatailadigan ta’sir",
+          "correct": false
         }
       ],
-      "answerKey": "D",
-      "locale": "mixed"
+      "answerKey": "A",
+      "locale": "uz"
     },
     {
       "id": "67",
       "order": 67,
-      "question": "Qaysi omillarga koʻra, PR ranglarga ajratiladi?",
+      "question": "Qaysi omillarga ko‘ra, PR ranglarga ajratiladi?",
       "options": [
         {
           "key": "A",
-          "text": "Axborot mohiyatiga koʻra",
-          "correct": false
+          "text": "Axborot mohiyatiga ko‘ra",
+          "correct": true
         },
         {
           "key": "B",
-          "text": "Axborot obyektiga koʻra",
+          "text": "Axborot obyektiga ko‘ra",
           "correct": false
         },
         {
           "key": "C",
-          "text": "Axborot subyektiga koʻra",
-          "correct": true
+          "text": "Axborot subyektiga ko‘ra",
+          "correct": false
         },
         {
           "key": "D",
-          "text": "Axborot mavzusiga koʻra",
+          "text": "Axborot mavzusiga ko‘ra",
           "correct": false
         }
       ],
-      "answerKey": "C",
-      "locale": "mixed"
+      "answerKey": "A",
+      "locale": "uz"
     },
     {
       "id": "68",
@@ -1954,7 +1954,7 @@
         {
           "key": "A",
           "text": "Jinsa",
-          "correct": false
+          "correct": true
         },
         {
           "key": "B",
@@ -1969,21 +1969,21 @@
         {
           "key": "D",
           "text": "Layk",
-          "correct": true
+          "correct": false
         }
       ],
-      "answerKey": "D",
-      "locale": "mixed"
+      "answerKey": "A",
+      "locale": "uz"
     },
     {
       "id": "69",
       "order": 69,
-      "question": "“Sariq PR” tushunchasi OAVning qaysi guruhiga nisbatan?",
+      "question": "“Sariq PR” tushunchasi OAVning qaysi guruhiga nisbatan",
       "options": [
         {
           "key": "A",
           "text": "Xususiy nashrlar",
-          "correct": false
+          "correct": true
         },
         {
           "key": "B",
@@ -1993,7 +1993,7 @@
         {
           "key": "C",
           "text": "Xususiy teleradiokanallari",
-          "correct": true
+          "correct": false
         },
         {
           "key": "D",
@@ -2001,66 +2001,66 @@
           "correct": false
         }
       ],
-      "answerKey": "C",
-      "locale": "mixed"
+      "answerKey": "A",
+      "locale": "uz"
     },
     {
       "id": "70",
       "order": 70,
-      "question": "“Davlat hokimiyati va boshqaruvi organlari faoliyatining ochiqligi toʻgʻrisida”gi Qonun haqida nimalarni bilasiz?",
+      "question": "“Davlat hokimiyati va boshqaruvi organlari faoliyatining ochiqligi to‘g‘risida”gi Qonun haqida nimalarni bilasiz?",
       "options": [
         {
           "key": "A",
-          "text": "Hamma javob toʻgʻri",
-          "correct": false
+          "text": "Hamma javob to‘g‘ri.",
+          "correct": true
         },
         {
           "key": "B",
-          "text": "Jismoniy va yuridik shaxslarning davlat hokimiyati va boshqaruvi organlari faoliyati toʻgʻrisidagi axborotdan foydalanishini taʼminlash",
+          "text": "Jismoniy va yuridik shaxslarning davlat hokimiyati va boshqaruvi organlari faoliyati to‘g‘risidagi axborotdan foydalanishini ta’minlash;",
           "correct": false
         },
         {
           "key": "C",
-          "text": "Davlat hokimiyati va boshqaruvi organlarining faoliyati toʻgʻrisida axborot olish huquqining kafolatlarini taʼminlash",
+          "text": "Davlat hokimiyati va boshqaruvi organlarining faoliyati to‘g‘risida axborot olish huquqining kafolatlarini ta’minlash;",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Davlat hokimiyati va boshqaruvi organlarining hamda ular mansabdor shaxslarining qabul qilinayotgan qarorlar uchun masʼuliyatini oshirish",
-          "correct": true
+          "text": "Davlat hokimiyati va boshqaruvi organlarining hamda ular mansabdor shaxslarining qabul qilinayotgan qarorlar uchun mas’uliyatini oshirish;",
+          "correct": false
         }
       ],
-      "answerKey": "D",
-      "locale": "mixed"
+      "answerKey": "A",
+      "locale": "uz"
     },
     {
       "id": "71",
       "order": 71,
-      "question": "Oʻzbekiston Respublikasining “Davlat hokimiyati va boshqaruvi organlari faoliyatining ochiqligi toʻgʻrisida”gi 2014-yil 5-maydagi OʻRQ-369-son Qonuniga koʻra davlat hokimiyati va boshqaruv organlari faoliyati ochiqligining asosiy prinsiplari nimalardan iborat?",
+      "question": "O‘zbekiston Respublikasining “Davlat hokimiyati va boshqaruvi organlari faoliyatining ochiqligi to‘g‘risida”gi 2014-yil 5-maydagi O‘RQ-369-son Qonuniga ko‘ra davlat hokimiyati va boshqaruv organlari faoliyati ochiqligining asosiy PRinsiplari nimalardan iborat?",
       "options": [
         {
           "key": "A",
-          "text": "Ular faoliyatining oshkoraligi va shaffofligi",
-          "correct": false
-        },
-        {
-          "key": "B",
-          "text": "Davlat hokimiyati va boshqaruvi organlarining faoliyati toʻgʻrisidagi axborotni izlash, olish va tarqatish erkinligi",
+          "text": "Hamma javob to‘g‘ri.",
           "correct": true
         },
         {
+          "key": "B",
+          "text": "Ular tomonidan taqdim etiladigan axborotdan hammaning foydalanishi mumkinligi, uning o‘z vaqtida berilishi va ishonchliligi;",
+          "correct": false
+        },
+        {
           "key": "C",
-          "text": "Ular tomonidan taqdim etiladigan axborotdan hammaning foydalanishi mumkinligi, uning oʻz vaqtida berilishi va ishonchliligi",
+          "text": "Ular faoliyatining oshkoraligi va shaffofligi;",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Hamma javob toʻgʻri",
+          "text": "Davlat hokimiyati va boshqaruvi organlarining faoliyati to‘g‘risidagi axborotni izlash, olish va tarqatish erkinligi;",
           "correct": false
         }
       ],
-      "answerKey": "B",
-      "locale": "mixed"
+      "answerKey": "A",
+      "locale": "uz"
     },
     {
       "id": "72",
@@ -2069,409 +2069,409 @@
       "options": [
         {
           "key": "A",
-          "text": "Davlat hokimiyati va boshqaruvi organlarining rasmiy nashrlari",
-          "correct": false
+          "text": "Hamma javob to‘g‘ri.",
+          "correct": true
         },
         {
           "key": "B",
-          "text": "Rahbarlarning chiqishlari va bayonotlari",
+          "text": "Davlat hokimiyati va boshqaruvi organlarining faoliyati to‘g‘risidagi axborot manbalari quyidagilardan iborat:",
           "correct": false
         },
         {
           "key": "C",
-          "text": "Hamma javob toʻgʻri",
-          "correct": true
+          "text": "Davlat hokimiyati va boshqaruvi organlarining rasmiy nashrlari; Qonunchilikka muvofiq boshqa manbalar ham davlat hokimiyati va boshqaruvi organlarining faoliyati to‘g‘risidagi axborot manbalari bo‘lishi mumkin.",
+          "correct": false
         },
         {
           "key": "D",
-          "text": "Qonunchilikka muvofiq boshqa manbalar",
+          "text": "Davlat hokimiyati va boshqaruvi organlari rahbarlarining, shuningdek ushbu organlar tomonidan vakolat berilgan mansabdor shaxslarning chiqishlari va bayonotlari;",
           "correct": false
         }
       ],
-      "answerKey": "C",
-      "locale": "mixed"
+      "answerKey": "A",
+      "locale": "uz"
     },
     {
       "id": "73",
       "order": 73,
-      "question": "Davlat hokimiyati va boshqaruvi organlari faoliyatining ochiqligini taʼminlash usullarini aytib bering.",
+      "question": "Davlat hokimiyati va boshqaruvi organlari faoliyatining ochiqligini ta’minlash usullarini aytib bering.",
       "options": [
         {
           "key": "A",
-          "text": "Axborotni eʼlon qilish (chop etish)",
-          "correct": false
+          "text": "Hamma javob to‘g‘ri.",
+          "correct": true
         },
         {
           "key": "B",
-          "text": "Axborotni rasmiy veb-saytlarda joylashtirish va yangilash",
+          "text": "Davlat hokimiyati va boshqaruvi organlari faoliyatining ochiqligini ta’minlash usullari quyidagilardan iborat: davlat hokimiyati va boshqaruvi organlarining faoliyati to‘g‘risidagi axborotni e’lon qilish (chop etish);",
           "correct": false
         },
         {
           "key": "C",
-          "text": "Hamma javob toʻgʻri",
-          "correct": true
+          "text": "Davlat hokimiyati va boshqaruvi organlarining faoliyati to‘g‘risidagi axborotni ularning rasmiy veb-saytlarida joylashtirish va yangilab borish; davlat hokimiyati va boshqaruvi organlarining faoliyati to‘g‘risidagi axborotni hamma kirishi mumkin bo‘lgan xonalarga va joylarga joylashtirish hamda yangilab borish;",
+          "correct": false
         },
         {
           "key": "D",
-          "text": "Axborotni axborot-kutubxona va arxiv fondlari orqali taqdim etish",
+          "text": "Davlat hokimiyati va boshqaruvi organlarining faoliyati to‘g‘risidagi axborotni axborot-kutubxona va arxiv fondlari orqali taqdim etish; davlat hokimiyati va boshqaruvi organlarining ochiq hay’at majlislarida axborotdan foydalanuvchilarning hozir bo‘lishi uchun sharoitlar yaratish;",
           "correct": false
         }
       ],
-      "answerKey": "C",
-      "locale": "mixed"
+      "answerKey": "A",
+      "locale": "uz"
     },
     {
       "id": "74",
       "order": 74,
-      "question": "Vazirlik va idoralarning Ochiq hayʼat yigʻilishlarida OAV vakillari ishtirok etishi mumkinmi? Mumkin boʻlsa, bu qaysi hujjatda keltirilgan?",
+      "question": "Vazirlik va idoralarning Ochiq hay’at yig‘ilishlarida ommaviy axborot vositalari vakillari ishtirok etishi mumkinmi? Mumkin bo‘lsa bu qaysi hujjatda keltirilgan?",
       "options": [
         {
           "key": "A",
-          "text": "Soʻrov 15 kun ichida koʻrib chiqilishi kerakligi haqidagi tartib",
-          "correct": false
+          "text": "Hamma javob to‘g‘ri",
+          "correct": true
         },
         {
           "key": "B",
-          "text": "Vakolat kirmasa 3 ish kuni ichida yuborilishi kerakligi haqidagi tartib",
+          "text": "Axborotdan foydalanuvchining so‘rovi ro‘yxatdan o‘tkazilgan kundan e’tiboran ko‘pi bilan o‘n besh kunlik muddatda ko‘rib chiqilishi kerak. Ommaviy axborot vositasining davlat hokimiyati va boshqaruvi organlarining faoliyati to‘g‘risida axborot olishga doir, shuningdek mansabdor shaxslarning intervyusini tashkil etish to‘g‘risidagi so‘rovi ko‘pi bilan yetti kunlik muddatda ko‘rib chiqiladi.",
           "correct": false
         },
         {
           "key": "C",
-          "text": "Rasmiy nashr yoki veb-sayt havolasi berilishi mumkinligi haqidagi tartib",
+          "text": "Agar axborotdan foydalanuvchining so‘rovini ko‘rib chiqish davlat hokimiyati va boshqaruvi organlarining vakolatlariga kirmasa, so‘rov so‘ralayotgan axborotni taqdim etish vakolatiga kiritilgan organga ro‘yxatdan o‘tkazilgan kundan e’tiboran uch ish kuni ichida yuboriladi, axborotdan foydalanuvchi esa bu haqda xabardor qilinadi.",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Hamma javob toʻgʻri",
-          "correct": true
+          "text": "Rasmiy nashrlarda, ommaviy axborot vositalarida e’lon qilingan (chop etilgan) yoxud rasmiy veb-saytlarda joylashtirilgan axborot so‘ralganda davlat hokimiyati va boshqaruvi organlari so‘rovga beriladigan javobda so‘ralayotgan axborot e’lon qilingan (chop etilgan) rasmiy nashrning, ommaviy axborot vositasining nomi, chiqarilish sanasi hamda raqamini va (yoki) so‘ralayotgan axborot joylashtirilgan rasmiy veb-saytning elektron manzilini ko‘rsatgan holda havola berishi mumkin.",
+          "correct": false
         }
       ],
-      "answerKey": "D",
-      "locale": "mixed"
+      "answerKey": "A",
+      "locale": "uz"
     },
     {
       "id": "75",
       "order": 75,
-      "question": "Davlat hokimiyati va boshqaruvi organlarining faoliyati toʻgʻrisida axborot olishga doir soʻrovni koʻrib chiqish tartibini aytib bering.",
+      "question": "Davlat hokimiyati va boshqaruvi organlarining faoliyati to‘g‘risida axborot olishga doir so‘rovni ko‘rib chiqish tartibini aytib bering.",
       "options": [
         {
           "key": "A",
-          "text": "Soʻrov 15 kun ichida, OAVniki 7 kun ichida koʻrib chiqilishi kerak",
-          "correct": false
+          "text": "Hamma javob to‘g‘ri",
+          "correct": true
         },
         {
           "key": "B",
-          "text": "Vakolat kirmasa 3 ish kuni ichida tegishli organga yuborilishi kerak",
+          "text": "Axborotdan foydalanuvchining so‘rovi ro‘yxatdan o‘tkazilgan kundan e’tiboran ko‘pi bilan o‘n besh kunlik muddatda ko‘rib chiqilishi kerak. Ommaviy axborot vositasining davlat hokimiyati va boshqaruvi organlarining faoliyati to‘g‘risida axborot olishga doir, shuningdek mansabdor shaxslarning intervyusini tashkil etish to‘g‘risidagi so‘rovi ko‘pi bilan yetti kunlik muddatda ko‘rib chiqiladi.",
           "correct": false
         },
         {
           "key": "C",
-          "text": "Hamma javob toʻgʻri",
-          "correct": true
+          "text": "Agar axborotdan foydalanuvchining so‘rovini ko‘rib chiqish davlat hokimiyati va boshqaruvi organlarining vakolatlariga kirmasa, so‘rov so‘ralayotgan axborotni taqdim etish vakolatiga kiritilgan organga ro‘yxatdan o‘tkazilgan kundan e’tiboran uch ish kuni ichida yuboriladi, axborotdan foydalanuvchi esa bu haqda xabardor qilinadi.",
+          "correct": false
         },
         {
           "key": "D",
-          "text": "Soʻralayotgan axborot eʼlon qilingan manzilga havola berilishi mumkin",
+          "text": "Rasmiy nashrlarda, ommaviy axborot vositalarida e’lon qilingan (chop etilgan) yoxud rasmiy veb-saytlarda joylashtirilgan axborot so‘ralganda davlat hokimiyati va boshqaruvi organlari so‘rovga beriladigan javobda so‘ralayotgan axborot e’lon qilingan (chop etilgan) rasmiy nashrning, ommaviy axborot vositasining nomi, chiqarilish sanasi hamda raqamini va (yoki) so‘ralayotgan axborot joylashtirilgan rasmiy veb-saytning elektron manzilini ko‘rsatgan holda havola berishi mumkin.",
           "correct": false
         }
       ],
-      "answerKey": "C",
-      "locale": "mixed"
+      "answerKey": "A",
+      "locale": "uz"
     },
     {
       "id": "76",
       "order": 76,
-      "question": "(Qiyin daraja)Axborot xizmatiga qaysi qonunda tarif berilgan hamda davlat organlari faoliyatining ochiqligini taʼminlashda axborot xizmati qanday vazifani bajaradi?",
+      "question": "Axborot xizmatiga qaysi qonunda tarif berilgan hamda davlat organlari faoliyatining ochiqligini ta’minlashda axborot xizmati qanday vazifani bajaradi?",
       "options": [
         {
           "key": "A",
-          "text": "Davlat hokimiyati va boshqaruvi organlarining oʻz faoliyati toʻgʻrisidagi axborotni tayyorlash hamda tarqatish vazifalarini bajaruvchi, shuningdek OAV va jamoatchilik bilan hamkorlikni taʼminlovchi tarkibiy boʻlinmasi",
+          "text": "hammasi to‘g‘ri",
           "correct": true
         },
         {
           "key": "B",
-          "text": "Axborot xizmati ommaviy tadbirlarni tashkil etish, press-relizlarni tarqatish va rasmiy veb-saytni yangilab borish orqali faoliyatni yoritish",
+          "text": "Davlat hokimiyati va boshqaruvi organlarining o‘z faoliyati to‘g‘risidagi axborotni tayyorlash hamda tarqatish vazifalarini bajaruvchi, shuningdek ommaviy axborot vositalari va jamoatchilik bilan hamkorlikni ta’minlovchi tarkibiy bo‘linmasi yoxud ushbu vazifalarni bajarish zimmasiga yuklatilgan shaxs davlat hokimiyati va boshqaruvi organlarining axborot xizmatidir (bundan buyon matnda axborot xizmati deb yuritiladi).",
           "correct": false
         },
         {
           "key": "C",
-          "text": "Axborot xizmatining faoliyatini tashkil etish tartibi davlat organlari tomonidan belgilanadi",
+          "text": "Axborot xizmati ommaviy tadbirlarni tashkil etish, axborot xabarlarini (Press-relizlar, byulletenlar va hokazolarni) tarqatish, shuningdek davlat hokimiyati va boshqaruvi organlarining rasmiy veb-saytida ularning faoliyati to‘g‘risidagi axborotni joylashtirish va yangilab borish yo‘li bilan davlat hokimiyati va boshqaruvi organlarining faoliyatini ommaviy axborot vositalarida yoritish chora-tadbirlarini ko‘radi. Axborot xizmati davlat hokimiyati va boshqaruvi organlarining faoliyati to‘g‘risida axborot tarqatishning qonunchilikka zid bo‘lmagan boshqa usullaridan ham foydalanishi mumkin",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Hammasi toʻgʻri",
+          "text": "Axborot xizmatining faoliyatini tashkil etish tartibi davlat hokimiyati va boshqaruvi organlari tomonidan belgilanadi.",
           "correct": false
         }
       ],
       "answerKey": "A",
-      "locale": "mixed"
+      "locale": "uz"
     },
     {
       "id": "77",
       "order": 77,
-      "question": "(Qiyin daraja)2019-yil 27-iyundagi PQ–4366-son qaroriga koʻra davlat organlari va tashkilotlari axborot xizmatlarining asosiy vazifalari nimalar?",
+      "question": "O‘zbekiston Respublikasi Prezidentining “Ommaviy axborot vositalari mustaqilligini ta’minlash hamda davlat organlari va tashkilotlari axborot xizmatlari faoliyatini rivojlantirish bo‘yicha qo‘shimcha chora-tadbirlar to‘g‘risida” 2019-yil 27-iyundagi PQ–4366-son qaroriga ko‘ra davlat organlari va tashkilotlari axborot xizmatlarining asosiy vazifalarini sanab bering?",
       "options": [
         {
           "key": "A",
-          "text": "Ijtimoiy-siyosiy va iqtisodiy taraqqiyot jarayoni haqida axborot berish",
-          "correct": false
+          "text": "Hammasi to‘g‘ri",
+          "correct": true
         },
         {
           "key": "B",
-          "text": "Hammasi toʻgʻri",
+          "text": "Davlat organlari va tashkilotlari faoliyati haqida ommaviy axborot vositalari, ijtimoiy tarmoqlar, davlat organlari va tashkilotlarining rasmiy veb-saytlari, shuningdek, boshqa axborot resurslari orqali, shu jumladan matbuot anjumanlari, brifinglar, mediaturlar tashkil etish yo‘li bilan aholiga muntazam, to‘liq va tezkor ravishda axborot taqdim etib borish;",
           "correct": false
         },
         {
           "key": "C",
-          "text": "Davlat organlarining ijobiy imijini shakllantirish va jamoatchilik fikrini oʻrganish",
-          "correct": true
+          "text": "Davlat organlari va tashkilotlarida mamlakatimizning ijtimoiy-siyosiy va sotsial-iqtisodiy taraqqiyoti jarayoni haqida axborot berish va yoritish bo‘yicha chora-tadbirlar ishlab chiqish va amalga oshirish;",
+          "correct": false
         },
         {
           "key": "D",
-          "text": "Davlat organlari faoliyati haqida OAV, ijtimoiy tarmoqlar va rasmiy saytlar orqali muntazam axborot berish",
+          "text": "Davlat organlari va tashkilotlarining ijobiy imijini shakllantirish va ilgari surish, ijtimoiy so‘rovlar o‘tkazish va boshqa shakllarda jamoatchilik fikrini o‘rganish;",
           "correct": false
         }
       ],
-      "answerKey": "C",
-      "locale": "mixed"
+      "answerKey": "A",
+      "locale": "uz"
     },
     {
       "id": "78",
       "order": 78,
-      "question": "(Qiyin daraja)2021-yil 16-iyundagi PF–6247-son farmoniga koʻra davlat organlari va tashkilotlari tomonidan har yili va har chorakda yangilanishi zarur boʻlgan maʼlumotlar qaysilar?",
+      "question": "O‘zbekiston Respublikasi Prezidentining “Davlat organlari va tashkilotlarining faoliyati ochiqligini ta’minlash, shuningdek, jamoatchilik nazoratini samarali amalga oshirishga doir qo‘shimcha chora-tadbirlar to‘g‘risida” 2021-yil 16-iyundagi PF–6247-son farmoniga ko‘ra davlat organlari va tashkilotlar tomonidan har yili va har chorakda yangilanishi (ma’lum qilinishi) zarur bo‘lgan ma’lumotlarni sanab bering?",
       "options": [
         {
           "key": "A",
-          "text": "Soliq va bojxona imtiyozlari, benefitsiarlar va yillik smeta maʼlumotlari",
-          "correct": false
-        },
-        {
-          "key": "B",
-          "text": "Davlat xaridlari, xizmat safarlari va xarajatlar haqidagi maʼlumotlar",
+          "text": "Hammasi to‘g‘ri",
           "correct": true
         },
         {
+          "key": "B",
+          "text": "2021-yil 1-iyuldan boshlab quyidagilar to‘g‘risidagi ma’lumotlarni O‘zbekiston Respublikasining Ochiq ma’lumotlar portaliga (keyingi o‘rinlarda — Portal) va o‘z rasmiy veb-saytlariga joylashtirib, ularni har chorakda yangilab boradi: amalga oshirilgan davlat xaridlari, shu jumladan to‘g‘ridan-to‘g‘ri shartnomalar bo‘yicha xarid qilinadigan tovarlar (ishlar, xizmatlar); mansabdor shaxslarning xizmat safarlari va xorijdan tashrif buyurgan mehmonlarni kutib olish xarajatlari (xizmat safarining yoki tashrifning maqsadi, sutkalik pul, transport va yashash bilan bog‘liq xarajatlar, bundan davlat sirlari va xizmatda foydalanish uchun mo‘ljallangan ma’lumotlar mustasno);",
+          "correct": false
+        },
+        {
           "key": "C",
-          "text": "Jamoatchilik kengashi aʼzolari, komissiyalar, masʼul xodimlar haqidagi maʼlumotlar",
+          "text": "O‘zbekiston Respublikasi Prezidenti, Vazirlar Mahkamasi hujjatlari bilan soliq va bojxona imtiyozlari hamda PReferensiyalar, shu jumladan individual imtiyozlar berilgan subyektlarning benefitsiarlari (yakuniy manfaatdor jismoniy shaxslari), ular tomonidan to‘langan soliqlar va moliyaviy ko‘rsatkichlar; o‘zlarining yillik xarajatlar smetasi va uning ijrosi, shu jumladan obyektlarni qurish, rekonstruksiya qilish va kapital ta’mirlash ishlari, avtomototransport vositalarini sotib olish xarajatlari;",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Hammasi toʻgʻri",
+          "text": "2021-yil 1-iyuldan boshlab o‘z huzurida faoliyat yurituvchi jamoatchilik kengashlari bilan birgalikda rasmiy veb-saytlarida quyidagi ma’lumotlarni joylashtirib, ularning har chorakda yangilanib borilishini ta’minlaydi: jamoatchilik kengashining tasdiqlangan a’zolari haqidagi ma’lumotlar bilan bir qatorda ularning aloqa ma’lumotlari (telefon, pochta va elektron manzillari); jamoatchilik kengashining yig‘ilishlari va kun tartibidagi masalalar; davlat xaridlarini amalga oshiruvchi komissiyaning tasdiqlangan a’zolari to‘g‘risidagi ma’lumotlar (familiyasi, ismi va otasining ismi, ish joyi va egallab turgan lavozimi); litsenziya va ruxsat etish xususiyatiga ega hujjatlarni berishga vakolatli hamda xabarnomalarni qabul qiladigan organlarning hududlar kesimida mas’ul xodimlari, shu jumladan ushbu toifadagi hujjatlarni berishni tashkillashtiradigan tegishli komissiya a’zolari to‘g‘risidagi ma’lumotlar (familiyasi, ismi va otasining ismi, egallab turgan lavozimi).",
           "correct": false
         }
       ],
-      "answerKey": "B",
-      "locale": "mixed"
+      "answerKey": "A",
+      "locale": "uz"
     },
     {
       "id": "79",
       "order": 79,
-      "question": "(Qiyin daraja)2022-yil 14-iyundagi PF–154-son Farmoniga koʻra ochiqlikni taʼminlashga masʼul xodimlar faoliyatining samaradorligini baholash mezonlariga nimalar kiradi?",
+      "question": "O‘zbekiston Respublikasi Prezidentining “Davlat organlari va tashkilotlari faoliyatining ochiqlik darajasini oshirish va baholash tizimini joriy etish chora-tadbirlari to‘g‘risida” 2022-yil 14-iyundagi PF–154-son Farmoniga ko‘ra davlat organlari va tashkilotlarida ochiqlikni ta’minlashga mas’ul bo‘lgan xodimlar faoliyatining samaradorligini baholash mezonlariga nimalar kiradi?",
       "options": [
         {
           "key": "A",
-          "text": "Matbuot anjumanlari, brifinglar, press-turlar soni; rahbarlarning ishtiroki",
+          "text": "Hammasi to‘g‘ri",
           "correct": true
         },
         {
           "key": "B",
-          "text": "Axborotning qamrovi, muammolarni yoritish, tanqidiy materiallarga munosabat",
+          "text": "Matbuot anjumanlari, brifinglar, Press-turlar, taqdimotlar hamda boshqa tadbirlar (tadbirlar) soni Ijtimoiy tarmoqlarda onlayn translyatsiyalar soni Matbuot anjumanlari, brifinglar va boshqa tadbirlarda rahbarlarning ishtiroki",
           "correct": false
         },
         {
           "key": "C",
-          "text": "Axborotlarni tezkor joylashtirish, rasmiy bayonotlar va xorijiy OAVda materiallar",
+          "text": "Axborotni yetkazib berish shakli Axborotning qamrovi Sohaga oid muammolarni yoritish Tanqidiy materiallarga munosabat bildirishning tezkorligi",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Hammasi toʻgʻri",
+          "text": "Tadbirlar haqidagi axborotlarning rasmiy veb-sayt, messenjer va ijtimoiy tarmoqlarda e’lon qilinishi tezkorligi Rahbar yoki axborot xizmati rahbarining muayyan axborot voqeligi munosabati bilan rasmiy bayonot berishi Xorijiy ommaviy axborot vositalarida materiallar e’lon qilinishi",
           "correct": false
         }
       ],
       "answerKey": "A",
-      "locale": "mixed"
+      "locale": "uz"
     },
     {
       "id": "80",
       "order": 80,
-      "question": "(Qiyin daraja)Davlat xizmatida jamoatchilik nazoratini taʼminlash uchun tanqid yoki ayblov bo‘lsa, qanday ishlar amalga oshiriladi?",
+      "question": "Davlat xizmatida jamoatchilik nazoratini ta’minlash maqsadida jamoatchilik tomonidan davlat organlari va tashkilotlari faoliyatiga oid ayblov yoki tanqid bildirilgan taqdirda qanday ishlar amalga oshiriladi?",
       "options": [
         {
           "key": "A",
-          "text": "Hammasi toʻgʻri",
-          "correct": false
+          "text": "Davlat xizmatida jamoatchilik nazoratini ta’minlash maqsadida jamoatchilik tomonidan davlat organlari va tashkilotlari faoliyatiga oid ayblov yoki tanqid bildirilgan taqdirda, davlat organlari va tashkilotlari unga nisbatan bildirilgan ayblov yoki tanqidqa ommaviy izoh yoxud raddiya berishi lozim.",
+          "correct": true
         },
         {
           "key": "B",
-          "text": "Xodimlar rahbarni darhol xabardor qiladi",
+          "text": "Davlat xizmatida jamoatchilik nazoratini ta’minlash maqsadida jamoatchilik tomonidan davlat organlari va tashkilotlari faoliyatiga oid ayblov yoki tanqid bildirilgan taqdirda, xodimlar o‘zining rahbarini darhol xabardor qilishi shart.",
           "correct": false
         },
         {
           "key": "C",
-          "text": "Tanqidni bartaraf etish choralari koʻriladi",
+          "text": "Davlat xizmatida jamoatchilik nazoratini ta’minlash maqsadida jamoatchilik tomonidan davlat organlari va tashkilotlari faoliyatiga oid ayblov yoki tanqid bildirilgan taqdirda, uni bartaraf etish yuzasidan o‘z vaqtida choralar ko‘rishga majbur.",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Jamoatchilik tanqidi bo‘lsa, davlat organi unga ommaviy izoh yoki raddiya beradi",
-          "correct": true
+          "text": "Hammasi to‘g‘ri",
+          "correct": false
         }
       ],
-      "answerKey": "D",
-      "locale": "mixed"
+      "answerKey": "A",
+      "locale": "uz"
     },
     {
       "id": "81",
       "order": 81,
-      "question": "(Qiyin daraja)Chet davlatlar OAV vakolatxonalarini akkreditatsiya qilish tartibi qaysi hujjatda belgilangan?",
+      "question": "Chet davlatlar ommaviy axborot vositalarining vakolatxonalari va vakillarini akkreditatsiya qilish tartibi qaysi normativ-huquqiy hujjatda belgilangan?",
       "options": [
         {
           "key": "A",
-          "text": "Oʻzbekiston Respublikasi qonuni 2007-yil 15-yanvardagi OʻRQ-78-son, 6-bob, 40-modda",
-          "correct": false
+          "text": "Vazirlar Mahkamasining 2006-yil 24-fevraldagi 33-son qarorida",
+          "correct": true
         },
         {
           "key": "B",
-          "text": "Vazirlar Mahkamasining 2017-yil 19-oktyabrdagi 855-son qarori",
+          "text": "O‘zbekiston Respublikasi qonuni 15.01.2007yildagi O‘RQ-78-son. 6 bob 40 moddasida",
           "correct": false
         },
         {
           "key": "C",
-          "text": "Vazirlar Mahkamasining 2006-yil 24-fevraldagi 33-son qarori",
-          "correct": true
+          "text": "Vazirlar Mahkamasining 2017-yil 19-oktyabrdagi 855-son qarorida",
+          "correct": false
         },
         {
           "key": "D",
-          "text": "“Davlat hokimiyati va boshqaruvi organlari faoliyatining ochiqligi toʻgʻrisida”gi 2014-yil 5-maydagi OʻRQ-369-son qonun 17-moddasi",
+          "text": "O‘zbekiston Respublikasining “Davlat hokimiyati va boshqaruvi organlari faoliyatining ochiqligi to‘g‘risida”gi 2014-yil 5-maydagi O‘RQ-369-son Qonuni 17-moddasida",
           "correct": false
         }
       ],
-      "answerKey": "C",
-      "locale": "mixed"
+      "answerKey": "A",
+      "locale": "uz"
     },
     {
       "id": "82",
       "order": 82,
-      "question": "(Qiyin daraja)Raddiya berish tartib-taomillari haqida maʼlumot bering.",
+      "question": "Raddiya berish tartib-taomillarini haqida ma’lumot bering.",
       "options": [
         {
           "key": "A",
-          "text": "Shaʼni va obroʻsiga zarar yetkazilgan shaxs raddiya talab qilishga haqli",
-          "correct": false
-        },
-        {
-          "key": "B",
-          "text": "Huquqlari buzilgan shaxslar raddiya yoki javobni eʼlon qilishni talab qilishga haqli",
+          "text": "Hammasi to‘g‘ri",
           "correct": true
         },
         {
+          "key": "B",
+          "text": "Yuridik yoki jismoniy shaxs ommaviy axborot vositasida e’lon qilingan, haqiqatga mos kelmaydigan hamda o‘zining sha’ni va qadr-qimmati yoki ishchanlik obro‘sini tahqirlovchi ma’lumotlar uchun raddiya berishni tahririyatdan talab qilishga haqlidir.",
+          "correct": false
+        },
+        {
           "key": "C",
-          "text": "Raddiya material olingan sahifada bir oy ichida eʼlon qilinishi kerak",
+          "text": "E’lon qilingan material tufayli huquqlari va qonuniy manfaatlari buzilgan yuridik va jismoniy shaxslar mazkur ommaviy axborot vositasida raddiya yoki javobni e’lon qilishga haqlidir. Raddiya yoki javob berilishiga sabab bo‘lgan material bosilgan ayni o‘sha sahifada maxsus rukn ostida e’lon qilinishi kerak.",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Hammasi toʻgʻri",
+          "text": "Raddiya yoki javob gazetalarda ular olingan kundan e’tiboran bir oy ichida, boshqa davriy nashrlarda navbatdagi sonda e’lon qilinishi shart.",
           "correct": false
         }
       ],
-      "answerKey": "B",
-      "locale": "mixed"
+      "answerKey": "A",
+      "locale": "uz"
     },
     {
       "id": "83",
       "order": 83,
-      "question": "(Qiyin daraja)Axborot erkinligining asosiy prinsiplari nimalardan iborat?",
+      "question": "Axborot erkinligining asosiy PRinsiplari nimalardan iborat?",
       "options": [
         {
           "key": "A",
-          "text": "Axborot erkinligi madaniy va ilmiy salohiyatni muhofaza qilishga qaratiladi",
-          "correct": false
-        },
-        {
-          "key": "B",
-          "text": "Ochiqlik, oshkoralik, erkin foydalanish va haqqoniylik",
+          "text": "Ochiqlik va oshkoralik, hamma erkin foydalanishi mumkinligi va haqqoniylik axborot erkinligining asosiy PRinsiplaridir",
           "correct": true
         },
         {
+          "key": "B",
+          "text": "Axborot olish faqat qonunga muvofiq hamda inson huquq va erkinliklaridan foydalanish mumkin.",
+          "correct": false
+        },
+        {
           "key": "C",
-          "text": "Axborot olish faqat qonunga muvofiq bo‘lishi",
+          "text": "Axborot erkinligining asosan ma’naviy, madaniy va ilmiy salohiyatini muhofaza qilish, xavfsizligini ta’minlash maqsadidan iborat.",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Ochiqlik va oshkoralik jamiyat axloqiy qadriyatlari asosida bo‘lishi kerak",
+          "text": "Ochiqlik va oshkoralik jamiyatning axloqiy qadriyatlari, mamlakatning ma’naviy, madaniy va ilmiy salohiyatini muhofaza qilgan holda",
           "correct": false
         }
       ],
-      "answerKey": "B",
-      "locale": "mixed"
+      "answerKey": "A",
+      "locale": "uz"
     },
     {
       "id": "84",
       "order": 84,
-      "question": "(Qiyin daraja)Axborot xavfsizligi nima? Uni taʼminlash sohasidagi davlat siyosati qanday amalga oshiriladi?",
+      "question": "Axborot xavfsizligi nima? Uni ta’minlash sohasidagi davlat siyosati qanday amalga oshiriladi?",
       "options": [
         {
           "key": "A",
-          "text": "Shaxs, jamiyat va davlatning axborot sohasidagi xavfsizligini taʼminlash",
+          "text": "Hammasi to‘g‘ri",
           "correct": true
         },
         {
           "key": "B",
-          "text": "Hammasi toʻgʻri",
+          "text": "Shaxs, jamiyat va davlatning axborot sohasidagi xavfsizligiga tahdidlarning oldini olish;",
           "correct": false
         },
         {
           "key": "C",
-          "text": "Axborotning maxfiyligi, tarqalmasligi va o‘g‘irlanishining oldini olish",
+          "text": "Axborotning maxfiyligini ta’minlash, tarqalishi, o‘g‘irlanishi, yo‘qotilishining oldini olish;",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Axborotni muhofaza etish",
+          "text": "Axborotni muhofaza etish:",
           "correct": false
         }
       ],
       "answerKey": "A",
-      "locale": "mixed"
+      "locale": "uz"
     },
     {
       "id": "85",
       "order": 85,
-      "question": "Qiyin darajaOmmaviy axborot vositasining davlat hokimiyati organlari faoliyati toʻgʻrisida axborot olish tartibi qanday?",
+      "question": "Ommaviy axborot vositasining davlat hokimiyati va boshqaruvi organlari faoliyati to‘g‘risida axborot olish tartibi qanday?",
       "options": [
         {
           "key": "A",
-          "text": "So‘rov yozma yoki og‘zaki shaklda, shu jumladan elektron tarzda yuborilishi mumkin",
+          "text": "Davlat hokimiyati va boshqaruvi organlarining faoliyati to‘g‘risida axborot olishga doir so‘rov (bundan buyon matnda so‘rov deb yuritiladi) axborotdan foydalanuvchining davlat hokimiyati va boshqaruvi organlari faoliyati to‘g‘risida axborot taqdim etish haqida ushbu organlarga va (yoki) ularning mansabdor shaxslariga yo‘llanadigan og‘zaki yoki yozma shakldagi (shu jumladan elektron hujjat shaklidagi) talabidir.",
           "correct": true
         },
         {
           "key": "B",
-          "text": "Faqat yozma shaklda so‘rov yuborish mumkin",
+          "text": "Ommaviy axborot vositasining davlat hokimiyati va boshqaruvi organlari faoliyati to‘g‘risida axborot olish faqat yozma shaklda",
           "correct": false
         },
         {
           "key": "C",
-          "text": "Faqat og‘zaki shaklda so‘rov yuborish mumkin",
+          "text": "Ommaviy axborot vositasining davlat hokimiyati va boshqaruvi organlari faoliyati to‘g‘risida axborot olish faqat og‘zaki shaklda",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Toʻgʻri javob yoʻq",
+          "text": "To‘g‘ri javob yo‘q",
           "correct": false
         }
       ],
       "answerKey": "A",
-      "locale": "mixed"
+      "locale": "uz"
     },
     {
       "id": "86",
       "order": 86,
-      "question": "“OAV erkindir va senzura taqiqlanadi” degan qoida Konstitutsiyaning qaysi moddasida belgilangan?",
+      "question": "O‘zbekiston Respublikasi Konstitutsiyasining qaysi moddasida “Ommaviy axborot vositalari erkindir va qonunga muvofiq ishlaydi. Ular axborotning to‘g‘riligi uchun belgilangan tartibda javobgardirlar. Senzuraga yo‘l qo‘yilmaydi”, deb belgilangan.",
       "options": [
         {
           "key": "A",
@@ -2494,51 +2494,51 @@
           "correct": false
         }
       ],
-      "answerKey": "B",
-      "locale": "mixed"
+      "answerKey": "A",
+      "locale": "uz"
     },
     {
       "id": "87",
       "order": 87,
-      "question": "Qiyin darajaKimlar axborotni izlash, olish, tekshirish, tarqatish, undan foydalanish va saqlash huquqiga ega?",
+      "question": "Kimlar axborotni izlash, olish, tekshirish, tarqatish, undan foydalanish va saqlash huquqiga ega?",
       "options": [
         {
           "key": "A",
-          "text": "Toʻgʻri javob yoʻq",
-          "correct": false
-        },
-        {
-          "key": "B",
-          "text": "Vakolatga ega boʻlgan shaxslar soʻz va eʼtiqod erkinligiga ega",
+          "text": "to‘g‘ri javob yo‘q",
           "correct": true
         },
         {
+          "key": "B",
+          "text": "Vakolatga ega bo‘lgan shaxslar so‘z va e’tiqod erkinligi huquqiga ega.",
+          "correct": false
+        },
+        {
           "key": "C",
-          "text": "Faqat OAV xodimlari",
+          "text": "Faqat Ommaviy Axborot Vositalari xodimlari",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Faqat mansabdor shaxslar",
+          "text": "Faqatmansabdor shaxslar",
           "correct": false
         }
       ],
-      "answerKey": "B",
-      "locale": "mixed"
+      "answerKey": "A",
+      "locale": "uz"
     },
     {
       "id": "88",
       "order": 88,
-      "question": "Qiyin darajaDavlat organlari axborot xizmatlari rahbarlarining ish samaradorligi qanday mezonlar asosida baholanadi?",
+      "question": "Davlat organlari va tashkilotlari axborot xizmatlari rahbarlarining ish samaradorligi qanday mezonlar asosida baholanadi?",
       "options": [
         {
           "key": "A",
-          "text": "Hammasi toʻgʻri",
+          "text": "Hammasi to‘g‘ri",
           "correct": true
         },
         {
           "key": "B",
-          "text": "Matbuot anjumanlari, brifinglar, press-turlar soni",
+          "text": "Matbuot anjumanlari, brifinglar, Press-turlar, taqdimotlar hamda boshqa tadbirlar (tadbirlar) soni",
           "correct": false
         },
         {
@@ -2548,31 +2548,31 @@
         },
         {
           "key": "D",
-          "text": "Axborotlarni rasmiy saytlarda tezkor eʼlon qilish",
+          "text": "Tadbirlar haqidagi axborotlarning rasmiy veb-sayt, messenjer va ijtimoiy tarmoqlarda e’lon qilinishi tezkorligi",
           "correct": false
         }
       ],
       "answerKey": "A",
-      "locale": "mixed"
+      "locale": "uz"
     },
     {
       "id": "89",
       "order": 89,
-      "question": "Qiyin darajaAxborot xizmati rahbari faoliyatini baholash boʻyicha mezonda matbuot anjumani va brifinglarda tashkilotning birinchi rahbari ishtirok etishi inobatga olinadimi?",
+      "question": "Axborot xizmati rahbari faoliyatini baholash bo‘yicha mezonda matbuot anjumani va brifinglarda tashkilotning birinchi rahbari ishtirok etishi inobatga olinadimi?",
       "options": [
         {
           "key": "A",
-          "text": "Inobatga olinadi. Ommaviy axborot vositalari uchun birinchi rahbarni oʻzidan axborotni eshitish muhim. Birinchi rahbarga savol berish va javob olish imkoniyatini yaratadi. Va jamoatchilik uchun ham birinchi rahbarning axboroti juda qiziq.",
+          "text": "Inobatga olinadi. Ommaviy axborot vositalari uchun uchun birinchi rahbarni o‘zidan axborotni eshitish muhim. Birinchi rahbarga Savol berish va javob olish imkoniyatini yaratadi. Va jamoatchilik uchun ham birinchi rahbarni axboroti juda qiziq.",
           "correct": true
         },
         {
           "key": "B",
-          "text": "Tadbir darajasidan kelib chiqib baholanadi.",
+          "text": "tadbir darajasidan kelib chiqib baholanadi",
           "correct": false
         },
         {
           "key": "C",
-          "text": "Shart emas, birinchi rahbarning oʻrinbosari ishtirok etsa ham boʻladi.",
+          "text": "Shart emas, birinchi rahbarning o‘rinbosari ishtirok etsa ham bo‘ladi.",
           "correct": false
         },
         {
@@ -2582,22 +2582,22 @@
         }
       ],
       "answerKey": "A",
-      "locale": "mixed"
+      "locale": "uz"
     },
     {
       "id": "90",
       "order": 90,
-      "question": "Qiyin darajaOmmaviy axborot vositalarining qanday turlari mavjud?",
+      "question": "Ommaviy axborot vositalarining qanday turlari mavjud?",
       "options": [
         {
           "key": "A",
-          "text": "Hammasi toʻgʻri.",
-          "correct": false
+          "text": "Hammasi to‘g‘ri",
+          "correct": true
         },
         {
           "key": "B",
           "text": "Gazetalar, jurnallar, axborotnomalar, davlat tasarrufidagi, mustaqil va boshqa ommaviy davriy nashrlar.",
-          "correct": true
+          "correct": false
         },
         {
           "key": "C",
@@ -2610,298 +2610,298 @@
           "correct": false
         }
       ],
-      "answerKey": "B",
-      "locale": "mixed"
+      "answerKey": "A",
+      "locale": "uz"
     },
     {
       "id": "91",
       "order": 91,
-      "question": "Qiyin darajaOmmaviy axborot vositalari faoliyati qaysi qonunlar bilan tartibga solinadi?",
+      "question": "Ommaviy axborot vositalari faoliyati qaysi qonunlar bilan tartibga solinadi?",
       "options": [
         {
           "key": "A",
-          "text": "Hammasi toʻgʻri.",
-          "correct": false
+          "text": "Hammasi to‘g‘ri",
+          "correct": true
         },
         {
           "key": "B",
-          "text": "“Davlat hokimiyati va boshqaruvi organlari faoliyatining ochiqligi toʻgʻrisida”gi Qonun bilan.",
+          "text": "“Davlat hokimiyati va boshqaruvi organlari faoliyatining ochiqligi to‘g‘risida”gi qonuni bilan,",
           "correct": false
         },
         {
           "key": "C",
-          "text": "“Axborot erkinligi prinsiplari va kafolatlari toʻgʻrisida”gi, “Axborotlashtirish toʻgʻrisida”gi qonunlar bilan.",
+          "text": "“Axborot erkinligi PRinsiplari va kafolatlari to‘g‘risida” gi qonuni bilan, “Axborotlashtirish to‘g‘risida”gi qonuni bilan,",
           "correct": false
         },
         {
           "key": "D",
-          "text": "“Ommaviy axborot vositalari toʻgʻrisida”gi hamda “Jurnalistlik faoliyatini himoya qilish toʻgʻrisida”gi qonunlar bilan.",
-          "correct": true
+          "text": "“Ommaviy axborot vositalari to‘g‘risida”gi qonuni bilan, “Jurnalistlik faoliyatini himoya qilish to‘g‘risida”gi qonuni bilan,",
+          "correct": false
         }
       ],
-      "answerKey": "D",
-      "locale": "mixed"
+      "answerKey": "A",
+      "locale": "uz"
     },
     {
       "id": "92",
       "order": 92,
-      "question": "Qiyin darajaMatbuot kotibining huquq va majburiyatlari nimadan iborat?",
+      "question": "Matbuot kotibining huquq va majburiyatlari nimadan iborat?",
       "options": [
         {
           "key": "A",
-          "text": "Hammasi toʻgʻri.",
+          "text": "Hammasi to‘g‘ri",
           "correct": true
         },
         {
           "key": "B",
-          "text": "Rahbariyat topshirigʻiga koʻra davlat organlarida, respublika va xalqaro ahamiyatga ega tadbirlarda idora nomidan vakillik qilish.",
+          "text": "Rahbariyatning topshirig‘iga ko‘ra davlat organlarida, respublika va xalqaro ahamiyatga ega bo‘lgan tadbirlarda Xizmat vakolatiga taalluqli masalalar bo‘yicha idora nomidan vakillik qilish;",
           "correct": false
         },
         {
           "key": "C",
-          "text": "Idoraning yigʻilishlarida, majlislarida va boshqa tadbirlarida qatnashish.",
+          "text": "Idoraning yig‘ilishlarida, majlislarida va boshqa tadbirlarida qatnashish;",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Zarur axborotlarni boshqa boʻlinmalardan belgilangan tartibda soʻrab olish.",
+          "text": "Xizmatning vazifalari va funksiyalarini bajarish uchun zarur bo‘lgan axborotlarni idoraning boshqa bo‘linmalaridan, idoraga qarashli tashkilotlardan belgilangan tartibda so‘rab olish;",
           "correct": false
         }
       ],
       "answerKey": "A",
-      "locale": "mixed"
+      "locale": "uz"
     },
     {
       "id": "93",
       "order": 93,
-      "question": "Qiyin darajaBloger va jurnalist tushunchasiga normativ-huquqiy hujjatlarda qanday taʼrif berilgan?",
+      "question": "Bloger va jurnalist tushunchasiga normativ-huquqiy hujjatlarda qanday ta’rif berilgan?",
       "options": [
         {
           "key": "A",
-          "text": "Jurnalist mehnatga oid yoki boshqa shartnomaviy munosabatlar asosida ommaviy axborot vositalari uchun xabarlar va materiallarni toʻplash, tahlil etish, tahrir qilish, tayyorlash hamda tarqatishga doir faoliyatni amalga oshiruvchi shaxsdir. Bloger — xabar va materiallarni toʻplash, tahlil qilish, tahrirlash, tayyorlash va tarqatish bilan shugʻullanuvchi hamda ular axborotdan foydalanuvchilar tomonidan, shu jumladan, muhokama qilishi uchun Internet jahon axborot tarmogʻidagi oʻz veb-saytiga va (yoki) veb-sayt sahifasiga joylashtiruvchi jismoniy shaxs.",
+          "text": "Jurnalist mehnatga oid yoki boshqa shartnomaviy munosabatlar asosida ommaviy axborot vositalari uchun xabarlar va materiallarni to‘plash, tahlil etish, tahrir qilish, tayyorlash hamda tarqatishga doir faoliyatni amalga oshiruvchi shaxsdir. Bloger — xabar va materiallarni to‘plash, tahlil qilish, tahrirlash, tayyorlash va tarqatish bilan shug‘ullanuvchi hamda ular axborotdan foydalanuvchilar tomonidan, shu jumladan, muhokama qilishi uchun Internet jahon axborot tarmog‘idagi o‘z veb-saytiga va (yoki) veb-sayt sahifasiga joylashtiruvchi jismoniy shaxs.",
           "correct": true
         },
         {
           "key": "B",
-          "text": "Bloger va jurnalist xabar va materiallarni toʻplash, tahlil qilish, tahrirlash, tayyorlash va tarqatish bilan shugʻullanuvchi hamda ular axborotdan foydalanuvchilar tomonidan, shu jumladan, muhokama qilishi uchun Internet jahon axborot tarmogʻidagi oʻz veb-saytiga va (yoki) veb-sayt sahifasiga joylashtiruvchi jismoniy shaxs.",
+          "text": "Bloger va jurnalist xabar va materiallarni to‘plash, tahlil qilish, tahrirlash, tayyorlash va tarqatish bilan shug‘ullanuvchi hamda ular axborotdan foydalanuvchilar tomonidan, shu jumladan, muhokama qilishi uchun Internet jahon axborot tarmog‘idagi o‘z veb-saytiga va (yoki) veb-sayt sahifasiga joylashtiruvchi jismoniy shaxs.",
           "correct": false
         },
         {
           "key": "C",
-          "text": "Jurnalist va bloger mehnatga oid yoki boshqa shartnomaviy munosabatlar asosida ommaviy axborot vositalari uchun xabarlar va materiallarni toʻplash, tahlil etish, tahrir qilish, tayyorlash hamda tarqatishga doir faoliyatni amalga oshiruvchi shaxsdir.",
+          "text": "Jurnalist va bloger mehnatga oid yoki boshqa shartnomaviy munosabatlar asosida ommaviy axborot vositalari uchun xabarlar va materiallarni to‘plash, tahlil etish, tahrir qilish, tayyorlash hamda tarqatishga doir faoliyatni amalga oshiruvchi shaxsdir.",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Hammasi notoʻgʻri.",
+          "text": "Hammasi noto‘g‘ri",
           "correct": false
         }
       ],
       "answerKey": "A",
-      "locale": "mixed"
+      "locale": "uz"
     },
     {
       "id": "94",
       "order": 94,
-      "question": "Qiyin darajaMatbuot anjumani va brifingning oʻzaro farqi nimada?",
+      "question": "Matbuot anjumani va brifingning o‘zaro farqi nimada?",
       "options": [
         {
           "key": "A",
-          "text": "Hamma javob toʻgʻri.",
-          "correct": false
-        },
-        {
-          "key": "B",
-          "text": "Matbuot anjumani, bu – jurnalistlar uchun tashkil etiladigan tadbir boʻlib, unda ijtimoiy ahamiyatga ega boʻlgan axborot va yangiliklar vakolatga ega kishilarning sharhi bilan beriladi. Brifing esa dolzarb yangilikni tezlik bilan tarqatish va uni qisqacha qilib matbuot vakillariga bayon qilish uchun tashkil etiladi.",
+          "text": "Hamma javob to‘g‘ri",
           "correct": true
         },
         {
+          "key": "B",
+          "text": "Matbuot anjumani, bu – jurnalistlar uchun tashkil etiladigan tadbir bo‘lib, unda ijtimoiy ahamiyatga ega bo‘lgan axborot va yangiliklar vakolatga ega kishilarning sharhi bilan beriladi. Brifing esa dolzarb yangilikni tezlik bilan tarqatish va uni qisqacha qilib matbuot vakillariga bayon qilish uchun tashkil etiladi.",
+          "correct": false
+        },
+        {
           "key": "C",
-          "text": "Matbuot anjumani odatda 45–60 daqiqa, brifing 15–20 daqiqa davom etadi.",
+          "text": "Matbuot anjumani o‘rtacha 45 – 60 daqiqa davom etadi, Brifing esa 15 – 20 daqiqa davom etadi.",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Brifingda faqat bir necha savollarga javob beriladi.",
+          "text": "Matbuot o‘z navbatida, turli kommunikatsiya kanallari orqali yangilik yoki xabarni jamoatchilikka ma’lum qiladi, Odatda, brifingda esa jurnalistlarning bir necha savollarigagina javob beriladi.",
           "correct": false
         }
       ],
-      "answerKey": "B",
-      "locale": "mixed"
+      "answerKey": "A",
+      "locale": "uz"
     },
     {
       "id": "95",
       "order": 95,
-      "question": "Qiyin darajaMediakit tushunchasiga taʼrif bering.",
+      "question": "Mediakit tushunchasiga ta’rif bering.",
       "options": [
         {
           "key": "A",
-          "text": "Hamma javob toʻgʻri.",
+          "text": "Hamma javob to‘g‘ri",
           "correct": true
         },
         {
           "key": "B",
-          "text": "Matbuot anjumani, bu – jurnalistlar uchun tashkil etiladigan tadbir boʻlib, unda ijtimoiy ahamiyatga ega boʻlgan axborot va yangiliklar vakolatga ega kishilarning sharhi bilan beriladi. Brifing esa dolzarb yangilikni tezlik bilan tarqatish va uni qisqacha qilib matbuot vakillariga bayon qilish uchun tashkil etiladi.",
+          "text": "Media-kit (tarqatma materiallar) (media-kit – media-to‘plam/komplekt/ paket). Media yoki tarqatma materiallar – Press-relizdan keyingi axborot tarqatishning muhim vositalaridan biri.",
           "correct": false
         },
         {
           "key": "C",
-          "text": "Matbuot anjumani oʻrtacha 45 – 60 daqiqa davom etadi, Brifing esa 15 – 20 daqiqa davom etadi.",
+          "text": "Tarqatma materiallarida muhokama etilayotgan masala bo‘yicha turli materiallar bo‘lishi kerak, ular jurnalistga mavzuni kengroq yoritishga yordam beradi.",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Matbuot oʻz navbatida, turli kommunikatsiya kanallari orqali yangilik yoki xabarni jamoatchilikka maʼlum qiladi, Odatda, brifingda esa jurnalistlarning bir necha savollarigagina javob beriladi.",
+          "text": "Tarqatma materiallarni Press-reliz, buklet, tashkilot faoliyati to‘g‘risida qisqacha ma’lumot, foto, disklarda videoyozuv va shu kabilardan iborat bo‘ladi.",
           "correct": false
         }
       ],
       "answerKey": "A",
-      "locale": "mixed"
+      "locale": "uz"
     },
     {
       "id": "96",
       "order": 96,
-      "question": "Qiyin darajaJamoatchilik bilan aloqalar sohasida inqirozli vaziyatlardan chiqib ketish uchun qanday PR-instrumentlar bor?",
+      "question": "Jamoatchilik bilan aloqalar sohasida inqirozli vaziyatlardan chiqib ketish uchun qanday PR-instrumentlar bor?",
       "options": [
         {
           "key": "A",
-          "text": "Hamma javob toʻgʻri.",
-          "correct": false
+          "text": "Hamma javob to‘g‘ri",
+          "correct": true
         },
         {
           "key": "B",
-          "text": "Brifing va matbuot anjumani, direct-mail.",
+          "text": "Brifing va matbuot anjumani, Direct-Mail",
           "correct": false
         },
         {
           "key": "C",
-          "text": "Ichki kommunikatsiya, mish-mishlarga qarshi kampaniya, ishonch telefoni.",
-          "correct": true
+          "text": "Ichki kommunikatsiya Mish-mishlar qarshi kompaniya Ishonch telefoni",
+          "correct": false
         },
         {
           "key": "D",
-          "text": "OAV bilan aloqalar, internet va ijtimoiy tarmoqlarda kommunikatsiya.",
+          "text": "OAV bilan aloqalar, Internet va ijtimoiy tarmoqlarda kommunikatsiya",
           "correct": false
         }
       ],
-      "answerKey": "C",
-      "locale": "mixed"
+      "answerKey": "A",
+      "locale": "uz"
     },
     {
       "id": "97",
       "order": 97,
-      "question": "Qiyin darajaInqirozli kommunikatsiya nima?",
+      "question": "Inqirozli kommunikatsiya nima?",
       "options": [
         {
           "key": "A",
-          "text": "Hamma javob toʻgʻri.",
+          "text": "Hamma javob to‘g‘ri",
           "correct": true
         },
         {
           "key": "B",
-          "text": "Kutilmaganda yuz beradigan vaziyat.",
+          "text": "Inqiroz bu Kutilmaganda, to‘satdan ro‘y beradigan vaziyat;",
           "correct": false
         },
         {
           "key": "C",
-          "text": "Darhol munosabat bildirishni talab etadigan hodisa.",
+          "text": "Darhol munosabat bildirishni talab etadigan  hodisa;",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Kundalik hayotni muvozanatdan chiqaradigan holat.",
+          "text": "Bir me’yordagi kundalik hayotni muvozanatdan chiqaradigan holat;",
           "correct": false
         }
       ],
       "answerKey": "A",
-      "locale": "mixed"
+      "locale": "uz"
     },
     {
       "id": "98",
       "order": 98,
-      "question": "Qiyin darajaModerator vazifalari nimalardan iborat?",
+      "question": "Moderator vazifalari nimalardan iborat?",
       "options": [
         {
           "key": "A",
-          "text": "Hamma javob toʻgʻri.",
-          "correct": false
-        },
-        {
-          "key": "B",
-          "text": "Muhokama va baxs jarayonlarini boshqaradi, professional muloqotni tashkil etadi.",
-          "correct": true
-        },
-        {
-          "key": "C",
-          "text": "Guruh aʼzolarining qoidalarga rioya etishini taʼminlaydi.",
-          "correct": false
-        },
-        {
-          "key": "D",
-          "text": "Jarayonlarni boshqaradi.",
-          "correct": false
-        }
-      ],
-      "answerKey": "B",
-      "locale": "mixed"
-    },
-    {
-      "id": "99",
-      "order": 99,
-      "question": "Qiyin darajaPress-tur qachon tashkil qilinadi?",
-      "options": [
-        {
-          "key": "A",
-          "text": "Axborot xizmati tomonidan oldindan rejalashtirilgan PR tadbir sifatida tashkilot imidjini oshirish uchun.",
+          "text": "Hamma javob to‘g‘ri",
           "correct": true
         },
         {
           "key": "B",
-          "text": "Matbuot anjumani bilan bir xil shakl.",
+          "text": "Agar yig‘ilish yoki anjumanda bo‘lsa unda muhokama, baxs jarayonlarini mahorat bilan boshqaradi, PRofessional muloqotni tashkil etadi.",
           "correct": false
         },
         {
           "key": "C",
-          "text": "Yangi mahsulot yoki xizmat joriy etilganda.",
+          "text": "Administratordan keyingi odam sifatida matnlarni tahrirlash, guruh a’zolarining qoidalarga rivoya etishini ta’minlaydigan alohida vakolatli shaxs.",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Hammasi notoʻgʻri.",
+          "text": "Jarayonlarni boshqaradi",
           "correct": false
         }
       ],
       "answerKey": "A",
-      "locale": "mixed"
+      "locale": "uz"
     },
     {
-      "id": "100",
-      "order": 100,
-      "question": "Qiyin darajaOmmaviy axborot vositalarida eʼlon qilingan tanqidiy materialga qancha vaqtda dastlabki rasmiy munosabat bildirilishi talab etiladi?",
+      "id": "99",
+      "order": 99,
+      "question": "Press-tur qachon tashkil qilinadi?",
       "options": [
         {
           "key": "A",
-          "text": "5 soat ichida.",
-          "correct": false
-        },
-        {
-          "key": "B",
-          "text": "6 soat ichida.",
+          "text": "Axborot xizmati tomonidan oldindan rejalashtirilgan PR tadbir sifatida Press-tur tashkilot imidjini oshirish uchun",
           "correct": true
         },
         {
+          "key": "B",
+          "text": "matbuot anjumani bilan bir xil shakl",
+          "correct": false
+        },
+        {
           "key": "C",
-          "text": "7 soat ichida.",
+          "text": "Yangi mahsulot ishlab chiqilganda yoki yangi xizmat joriy etilganda joriy etiladi",
           "correct": false
         },
         {
           "key": "D",
-          "text": "8 soat ichida.",
+          "text": "Hammasi noto‘g‘ri",
           "correct": false
         }
       ],
-      "answerKey": "B",
-      "locale": "mixed"
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "100",
+      "order": 100,
+      "question": "Ommaviy axborot vositalarida e’lon qilingan tanqidiy materialga qancha vaqtda dastlabki rasmiy munosabat bildirilishi talab etiladi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "tanqidiy material e’lon qilingan vaqtdan boshlab 5 soat ichida",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "tanqidiy material e’lon qilingan vaqtdan boshlab 6 soat ichida",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "tanqidiy material e’lon qilingan vaqtdan boshlab 7 soat ichida",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "tanqidiy material e’lon qilingan vaqtdan boshlab 8 soat ichida",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
     }
   ]
 }
