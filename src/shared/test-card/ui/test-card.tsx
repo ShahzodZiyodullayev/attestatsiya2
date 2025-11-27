@@ -1,6 +1,7 @@
 import { Card, Radio, Stack, Title } from "@mantine/core";
 import { forwardRef, useState } from "react";
 import { useDispatch } from "react-redux";
+import { useParams } from "react-router-dom";
 
 import classes from "@/pages/test/ui/tests.module.pcss";
 import { TestCardOptions } from "@/shared/test-card";
@@ -11,6 +12,8 @@ const TestCard = forwardRef<HTMLDivElement, { test: any; onOptionSelect: any }>(
     const [value, setValue] = useState<string | null>(null);
     const [correctOption, setCorrectOption] = useState<boolean | null>(null);
     const dispatch = useDispatch();
+
+    const { quizType } = useParams();
 
     const handleOptionChange = (val: string) => {
       setValue(val);
@@ -27,7 +30,10 @@ const TestCard = forwardRef<HTMLDivElement, { test: any; onOptionSelect: any }>(
         ref={ref}
         style={{
           transition: "border 150ms",
-          border: `2px solid ${value ? (correctOption ? "rgb(51, 204, 129)" : "rgb(234, 56, 51)") : "white"}`,
+          border:
+            quizType === "quiz"
+              ? "none"
+              : `2px solid ${value ? (correctOption ? "rgb(51, 204, 129)" : "rgb(234, 56, 51)") : "white"}`,
         }}>
         <Title order={3} className={classes.title}>
           {test.order}. {test.question}

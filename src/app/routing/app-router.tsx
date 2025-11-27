@@ -8,7 +8,7 @@ const BaseLayout = lazy(() => import("@/app/layouts/base-layout"));
 const Home: Component = lazy(() => import("@/pages/home"));
 const Upload: Component = lazy(() => import("@/pages/upload"));
 const Test: Component = lazy(() => import("@/pages/test"));
-const Quiz: Component = lazy(() => import("@/features/quiz/ui/quiz-page"));
+// const Quiz: Component = lazy(() => import("@/features/quiz/ui/quiz-page"));
 const NotFound: Component = lazy(() => import("@/pages/not-found"));
 
 export const Router = () => {
@@ -29,10 +29,10 @@ export const Router = () => {
           path: ":quizType",
           element: <Test />,
         },
-        {
-          path: "quiz",
-          element: <Quiz />,
-        },
+        // {
+        //   path: "quiz",
+        //   element: <Quiz />,
+        // },
       ],
     },
     {
